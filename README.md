@@ -1,6 +1,8 @@
 # VITAL-Series
 Official implementation of VITAL: Vision-Encoder centered pretraining for LMMs in visual quality assessment.
-
+<div style="width: 100%; text-align: center; margin:auto;">
+      <img style="width:100%" src="teaser.png">
+</div>
 ## ⚙️ Environment Setup
 
 To install the necessary environment, please use the provided `environment.yml` file. It contains all the dependencies required for running the models.
