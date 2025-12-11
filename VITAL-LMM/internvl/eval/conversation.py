@@ -438,15 +438,42 @@ class LazySupervisedDataset(Dataset):
     def multi_modal_get_item(self, data_item):
         # Build transformation function
         transform = self.get_transform()
-        try:
-            data_item['conversations'][0]['value']=''
-        except:
-            data_item['conversations']=[{"from":"human","value":""},{"from":"gpt","value":""}]
-            data_item['conversations'][0]['value']=''
+        # try:
+        #     data_item['conversations'][0]['value']=''
+        # except:
+        #     data_item['conversations']=[{"from":"human","value":""},{"from":"gpt","value":""}]
+        #     data_item['conversations'][0]['value']=''
+
+        # # Ensure the first conversation contains an image placeholder
+        # if '<image>' not in data_item['conversations'][0]['value']:
+        #     data_item['conversations'][0]['value'] = '<image>\n' + data_item['conversations'][0]['value']
+       if 'open_ended' in data_item['question_type']:
+                message = data_item["question"]
+                # message = message
+                # 设计选项
+        # for choice, ans in zip(["A.", "B.", "C.", "D."], data_item["answers"]):
+        #         message += f"{choice} {ans}\n"
+        #         message = message + "Please answer the question in the following format: the uppercase letter of the correct answer option itself +'.'. Please do not add any other answers beyond this."
+
+        prefix_text = "You will receive one image. Please analyze the image and answer the questions based on your observations."
+            # prefix_text = "You will receive " + str(
+            #     slice_len) + f" distinct frames that have been uniformly sampled in each second from a video sequence, arranged in the same temporal order as they appear in the video.  Please analyze these images and answer the questions based on your observations."
+            # # print(message)
+            # frames, frame_timestamps = load_video(video_file)
+        prompt = prefix_text +message
+            # prompt = prefix_text + '\n' +  message
+            # prompt = prefix_text + message + "<Video><VideoHere></Video>\n" + "<Video><VideoHere></Video>\n."
+            # prompt = prefix_text + '\n' + 'The video frames:' + "<Video><VideoHere></Video>\n"  + message
+    
+
+    
+        data_item['conversations']=[{"from":"human","value":f"{prompt}"},{"from":"gpt","value":""}]
+           
 
         # Ensure the first conversation contains an image placeholder
         if '<image>' not in data_item['conversations'][0]['value']:
             data_item['conversations'][0]['value'] = '<image>\n' + data_item['conversations'][0]['value']
+
 
         # Merge the image path
         image_path = self.get_image_path(data_item['image'])
@@ -473,12 +500,12 @@ class LazySupervisedDataset(Dataset):
 
         # Select the appropriate preprocessing function based on the template name
         preprocess_function = self.get_preprocess_function()
-        try:
-            gt_answer = data_item['gt_score']
-        except:
-            gt_answer = data_item['id'].split("->")[1]
+        # try:
+        #     gt_answer = data_item['gt_score']
+        # except:
+        #     gt_answer = data_item['id'].split("->")[1]
 
-        data_item['conversations'][1]['value'] = 'The quality of this image is'
+        # data_item['conversations'][1]['value'] = 'The quality of this image is'
         # Preprocess the conversations and generate the return dictionary
         ret = preprocess_function(self.template_name, [deepcopy(data_item['conversations'])],
                                   self.tokenizer, [self.num_image_token * num_patches],
@@ -494,7 +521,9 @@ class LazySupervisedDataset(Dataset):
         # Create the final return dictionary
         
         ret = dict(
-            mos = gt_answer,
+            image = data_item["image"],
+            question = data_item["question"],
+            question_type=data_item["question_type"],
             input_ids=ret['input_ids'][0],
             labels=ret['labels'][0],
             attention_mask=ret['attention_mask'][0],
@@ -503,6 +532,18 @@ class LazySupervisedDataset(Dataset):
             modality=torch.tensor(0,dtype=torch.long),
             image_flags=torch.tensor([1] * num_patches, dtype=torch.long)
         )
+        # ret = dict(
+        #     video = data_item["video"],
+        #     question = data_item["question"],
+        #     question_type=data_item["question_type"],
+        #     input_ids=ret['input_ids'][0],
+        #     labels=ret['labels'][0],
+        #     attention_mask=ret['attention_mask'][0],
+        #     position_ids=position_ids[0],
+        #     pixel_values=pixel_values,
+        #     modality=torch.tensor(1,dtype=torch.long),
+        #     image_flags=torch.tensor([1 if i in list(frame_indices) else 0 for i in range(pixel_values.size(0))], dtype=torch.long)
+        # )
         return ret
 
     def multi_modal_multi_image_get_item(self, data_item):
@@ -1239,20 +1280,32 @@ def main():
                 item = {}
                 for k, v in item2.items():
                     # print("k", k,"v",v)
-                    if k!='answers' and k!='video' and k!='correct_choice'and k!='question' and k!='video_type' and k!='quality_concern' and k!='question_type' and k!='context' and k!='correct_choice' and k!='correct_ans':
+                    if k!='answers' and k!='video' and  k!='image' and k!='correct_choice'and k!='question' and k!='video_type' and k!='quality_concern' and k!='question_type' and k!='context' and k!='correct_choice' and k!='correct_ans':
                         item[k] = v.to(model.device)
         
                 # print(item["image_flags"].shape)
                 # print(item["input_ids"])
                 generation_config = dict(max_new_tokens=1024, do_sample=False,temperature=1)
-                output = model.chat2(
-                    generation_config=generation_config,
-                    tokenizer=tokenizer,
-                    pixel_values=item["pixel_values"][0].to(torch.bfloat16),
-                    input_ids=item["input_ids"],
-                    attention_mask=item["attention_mask"],
-                    image_flags=item["image_flags"][0]
-                )
+                if 'image' not in item2:
+                    output = model.chat2(
+                        generation_config=generation_config,
+                        tokenizer=tokenizer,
+                        pixel_values=item["pixel_values"][0].to(torch.bfloat16),
+                        input_ids=item["input_ids"],
+                        attention_mask=item["attention_mask"],
+                        image_flags=item["image_flags"][0]
+                    )
+                    
+                else:
+                    output = model.chat2(
+                        generation_config=generation_config,
+                        tokenizer=tokenizer,
+                        pixel_values=item["pixel_values"][0].to(torch.bfloat16),
+                        input_ids=item["input_ids"],
+                        attention_mask=item["attention_mask"],
+                        image_flags=item["image_flags"][0],
+                        modality=torch.tensor(0,dtype=torch.long),
+                    )
 
        
                 count+=1
@@ -1285,7 +1338,10 @@ def main():
                         #     print(accuracy_GT)
                     # except:
                     #     continue
-                record_dict["video"]=item2["video"][0]
+                try:
+                    record_dict["video/image"]=item2["video"][0]
+                except:
+                    record_dict["video/image"]=item2["image"][0]
                 record_dict["question"]=item2["question"][0]
                 record_dict["question_type"]=item2["question_type"][0]
                 record_dict["prediction"]=pred
