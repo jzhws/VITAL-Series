@@ -1,0 +1,10 @@
+{
+    "sharegpt4v_instruct_gpt4-vision_cap100k": {
+      "root": "/mnt/shared-storage-user/jiaziheng/tos/jiaziheng/VQA++/video/",
+      "annotation": "/mnt/shared-storage-user/jiaziheng/pretrain/internvl-sft/internvl_chat/shell/eval/qbvideo/qbvideo_test_single.json",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 1200
+    }
+  }
+  

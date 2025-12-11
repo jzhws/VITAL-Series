@@ -1,0 +1,9 @@
+{
+  "custom_test_scoring": {
+    "root": "你的图像/视频目录",
+    "annotation": "./shell/eval/custom/benchlist_scoring_example.json",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1200
+  }
+}

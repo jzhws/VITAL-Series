@@ -1,0 +1,10 @@
+{
+    "sharegpt4v_instruct_gpt4-vision_cap100k": {
+      "root": "/mnt/shared-storage-user/jiaziheng/tos/jiaziheng/qbench/images/images/",
+      "annotation": "/mnt/shared-storage-user/jiaziheng/pretrain/internvl-sft/internvl_chat/shell/eval/qb/llvisionqa_test.json",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 1200
+    }
+  }
+  

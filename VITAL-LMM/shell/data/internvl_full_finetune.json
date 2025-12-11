@@ -1,0 +1,38 @@
+{ 
+  "video_pair": {
+    "root": "对应的图像/视频路径",
+    "annotation": "data/full_pretrain/picked_pairs.json",
+    "data_augment": false,
+    "repeat_time": 1
+  },
+  "image_pair": {
+    "root": "对应的图像/视频路径",
+    "annotation": "data/full_pretrain/picked_pairs_image.json",
+    "data_augment": false,
+    "repeat_time": 1
+  },
+  "mix_PMOD": {
+    "root": "对应的图像/视频路径",
+    "annotation": "data/full_pretrain/scoring_dist_converted_mix_dual.json",
+    "data_augment": false,
+    "repeat_time": 1
+  },
+  "video_distortion": {
+    "root": "对应的图像/视频路径",
+    "annotation": "data/full_pretrain/video_distortion.json",
+    "data_augment": false,
+    "repeat_time": 1
+  },
+  "image_distortion": {
+    "root": "对应的图像/视频路径",
+    "annotation": "data/full_pretrain/img_distortion_dual.json",
+    "data_augment": false,
+    "repeat_time": 1
+  },
+  "video_depict": {
+    "root": "对应的图像/视频路径",
+    "annotation": "data/full_pretrain/video_depict.json",
+    "data_augment": false,
+    "repeat_time": 1
+  }
+  }

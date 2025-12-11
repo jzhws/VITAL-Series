@@ -1,0 +1,8 @@
+{ 
+  "warm_up": {
+    "root": "/mnt/shared-storage-user/jiaziheng/pretrain/youtube/",
+    "annotation": "/mnt/shared-storage-user/jiaziheng/pretrain/internvl-sft/internvl_chat_dual/data/scoring_dist_converted_qualified_warmup.json",
+    "data_augment": false,
+    "repeat_time": 1
+  }
+}
