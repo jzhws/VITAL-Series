@@ -77,5 +77,33 @@ This section covers the training/testing methods for adding non-LLM structures (
 
 - **VITAL-Linear-Probe** (Use the code in the `VITAL-linear-probe` folder for training/testing):  
   [JZHWS/VITAL-Linear-Probe · Hugging Face](https://huggingface.co/JZHWS/VITAL-Linear-Probe)
+## 📚 Citation
+
+When using the related models, please kindly cite the following reference articles:
+
+
+@article{jia2025vital,
+  title={VITAL: Vision-Encoder-centered Pre-training for LMMs in Visual Quality Assessment},
+  author={Jia, Ziheng and Cao, Linhan and Han, Jinliang and Zhang, Zicheng and Qian, Jiaying and Wang, Jiarui and Chen, Zijian and Zhai, Guangtao and Min, Xiongkuo},
+  journal={arXiv preprint arXiv:2511.17962},
+  year={2025}
+}
+
+@inproceedings{jia2025vqa2,
+  title={Vqa2: visual question answering for video quality assessment},
+  author={Jia, Ziheng and Zhang, Zicheng and Qian, Jiaying and Wu, Haoning and Sun, Wei and Li, Chunyi and Liu, Xiaohong and Lin, Weisi and Zhai, Guangtao and Min, Xiongkuo},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={6751--6760},
+  year={2025}
+}
+
+@inproceedings{zhang2025q,
+  title={Q-Bench-Video: Benchmark the Video Quality Understanding of LMMs},
+  author={Zhang, Zicheng and Jia, Ziheng and Wu, Haoning and Li, Chunyi and Chen, Zijian and Zhou, Yingjie and Sun, Wei and Liu, Xiaohong and Min, Xiongkuo and Lin, Weisi and others},
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={3229--3239},
+  year={2025}
+}
+
 
 Feel free to adjust the file paths and parameters as necessary according to your setup. For any other questions or issues, please refer to the official documentation or open an issue on this repository!
