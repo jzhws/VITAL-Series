@@ -51,5 +51,31 @@ This section covers the training/testing methods for adding non-LLM structures (
 1. Run `shell/evaluate_video.sh` (adjust the file paths based on the instructions provided).
 
 ---
+## Model Zoo
+
+### 📦 VITAL Models
+
+- **VITAL-Base-8B** (Use the code in the `VITAL-LMM` folder for training/testing):  
+  [JZHWS/VITAL-Base-8B at main](https://huggingface.co/JZHWS/VITAL-Base-8B/tree/main)
+  
+- **VITAL-Assistant-8B** (Use the code in the `VITAL-LMM` folder for training/testing):  
+  [JZHWS/VITAL-Assistant-8B · Hugging Face](https://huggingface.co/JZHWS/VITAL-Assistant-8B)
+
+- **VITAL-Warm-up-1B** (Use the code in the `VITAL-LMM` folder for training/testing):  
+  [JZHWS/VITAL-Warm-up-1B · Hugging Face](https://huggingface.co/JZHWS/VITAL-Warm-up-1B)
+
+- **VITAL-Warm-up-2B** (Use the code in the `VITAL-LMM` folder for training/testing):  
+  [JZHWS/VITAL-Warm-up-2B · Hugging Face](https://huggingface.co/JZHWS/VITAL-Warm-up-2B)
+
+- **VITAL-Warm-up-14B** (Use the code in the `VITAL-LMM` folder for training/testing):  
+  [JZHWS/VITAL-Warm-up-14B · Hugging Face](https://huggingface.co/JZHWS/VITAL-Warm-up-14B)
+
+### 👁️ VITAL Vision Encoder & Extensions
+
+- **VITAL-Vision-Encoder-300M** (Use the code in the `VITAL-linear-probe` folder, suitable for downstream tasks fine-tuning or model structure transfer, see Linear-probe usage and VITAL-Zero model construction):  
+  [JZHWS/VITAL-Vision-Encoder-300M · Hugging Face](https://huggingface.co/JZHWS/VITAL-Vision-Encoder-300M)
+
+- **VITAL-Linear-Probe** (Use the code in the `VITAL-linear-probe` folder for training/testing):  
+  [JZHWS/VITAL-Linear-Probe · Hugging Face](https://huggingface.co/JZHWS/VITAL-Linear-Probe)
 
 Feel free to adjust the file paths and parameters as necessary according to your setup. For any other questions or issues, please refer to the official documentation or open an issue on this repository!
