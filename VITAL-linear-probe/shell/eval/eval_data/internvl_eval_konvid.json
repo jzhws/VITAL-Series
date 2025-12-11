@@ -1,0 +1,9 @@
+{
+  "sharegpt4v_instruct_gpt4-vision_cap100k": {
+    "root": "/mnt/shared-storage-user/jiaziheng/tos/wenfarong/caolinhan/data/test_data/KoNViD_1k/KoNViD_1k_videos/",
+    "annotation": "/mnt/shared-storage-user/jiaziheng/pretrain/internvl-sft/internvl_chat/shell/eval/rating_videos/Konvid-1k_total_ds_score.json",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1200
+  }
+}

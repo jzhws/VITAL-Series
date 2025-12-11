@@ -1,0 +1,10 @@
+{
+    "sharegpt4v_instruct_gpt4-vision_cap100k": {
+      "root": "/mnt/shared-storage-user/jiaziheng/tos/wenfarong/caolinhan/data/test_data/cgvds/",
+      "annotation": "/mnt/shared-storage-user/jiaziheng/pretrain/internvl-sft/internvl_chat/shell/eval/rating_videos/CGVDS_total_score.json",
+      "data_augment": false,
+      "repeat_time": 1,
+      "length": 1200
+    }
+  }
+  

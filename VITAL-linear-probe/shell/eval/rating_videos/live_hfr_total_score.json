@@ -1,0 +1,2402 @@
+[
+        {
+            "video": "1Runner_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.02495047"
+        },
+        {
+            "video": "1Runner_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.67430153"
+        },
+        {
+            "video": "1Runner_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.76751755"
+        },
+        {
+            "video": "1Runner_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.586168"
+        },
+        {
+            "video": "1Runner_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.14558254"
+        },
+        {
+            "video": "1Runner_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "68.66279395"
+        },
+        {
+            "video": "1Runner_crf_18_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "39.34392075"
+        },
+        {
+            "video": "1Runner_crf_20_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.93584931"
+        },
+        {
+            "video": "1Runner_crf_26_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.84994248"
+        },
+        {
+            "video": "1Runner_crf_30_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.22161348"
+        },
+        {
+            "video": "1Runner_crf_30_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.16434686"
+        },
+        {
+            "video": "1Runner_crf_32_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.98967707"
+        },
+        {
+            "video": "1Runner_crf_40_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "39.87279923"
+        },
+        {
+            "video": "1Runner_crf_40_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.55064515"
+        },
+        {
+            "video": "1Runner_crf_44_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.72417871"
+        },
+        {
+            "video": "1Runner_crf_46_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "37.50772823"
+        },
+        {
+            "video": "1Runner_crf_46_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.68293929"
+        },
+        {
+            "video": "1Runner_crf_46_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.49184217"
+        },
+        {
+            "video": "1Runner_crf_48_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.12354513"
+        },
+        {
+            "video": "1Runner_crf_48_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.57381422"
+        },
+        {
+            "video": "1Runner_crf_50_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.52360993"
+        },
+        {
+            "video": "1Runner_crf_52_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.52256615"
+        },
+        {
+            "video": "1Runner_crf_52_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.75297725"
+        },
+        {
+            "video": "1Runner_crf_54_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.02978188"
+        },
+        {
+            "video": "1Runner_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "27.12318512"
+        },
+        {
+            "video": "1Runner_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "32.44013614"
+        },
+        {
+            "video": "1Runner_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "35.61135796"
+        },
+        {
+            "video": "1Runner_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "37.99586156"
+        },
+        {
+            "video": "1Runner_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.81077043"
+        },
+        {
+            "video": "1Runner_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.91885959"
+        },
+        {
+            "video": "3Runners_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.01775119"
+        },
+        {
+            "video": "3Runners_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.0043701"
+        },
+        {
+            "video": "3Runners_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.96712283"
+        },
+        {
+            "video": "3Runners_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.80369725"
+        },
+        {
+            "video": "3Runners_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.84700816"
+        },
+        {
+            "video": "3Runners_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "69.13103239"
+        },
+        {
+            "video": "3Runners_crf_28_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.18059177"
+        },
+        {
+            "video": "3Runners_crf_30_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.65345523"
+        },
+        {
+            "video": "3Runners_crf_36_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.42876157"
+        },
+        {
+            "video": "3Runners_crf_38_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.04477492"
+        },
+        {
+            "video": "3Runners_crf_40_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "36.25084184"
+        },
+        {
+            "video": "3Runners_crf_40_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.45994584"
+        },
+        {
+            "video": "3Runners_crf_40_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.45438887"
+        },
+        {
+            "video": "3Runners_crf_42_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.90623946"
+        },
+        {
+            "video": "3Runners_crf_46_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "38.3634265"
+        },
+        {
+            "video": "3Runners_crf_48_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.74152884"
+        },
+        {
+            "video": "3Runners_crf_48_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "54.8250325"
+        },
+        {
+            "video": "3Runners_crf_50_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.68373955"
+        },
+        {
+            "video": "3Runners_crf_52_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.76008879"
+        },
+        {
+            "video": "3Runners_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.07393858"
+        },
+        {
+            "video": "3Runners_crf_54_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.17528394"
+        },
+        {
+            "video": "3Runners_crf_56_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.22368726"
+        },
+        {
+            "video": "3Runners_crf_58_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.73905764"
+        },
+        {
+            "video": "3Runners_crf_58_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.16789859"
+        },
+        {
+            "video": "3Runners_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "24.72857082"
+        },
+        {
+            "video": "3Runners_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "24.7102618"
+        },
+        {
+            "video": "3Runners_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "38.54083549"
+        },
+        {
+            "video": "3Runners_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.2863467"
+        },
+        {
+            "video": "3Runners_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.47879421"
+        },
+        {
+            "video": "3Runners_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.79296745"
+        },
+        {
+            "video": "Flips_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.89152785"
+        },
+        {
+            "video": "Flips_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.47751352"
+        },
+        {
+            "video": "Flips_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.67517019"
+        },
+        {
+            "video": "Flips_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.50286436"
+        },
+        {
+            "video": "Flips_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "68.03415461"
+        },
+        {
+            "video": "Flips_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "72.44326554"
+        },
+        {
+            "video": "Flips_crf_24_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.98575541"
+        },
+        {
+            "video": "Flips_crf_26_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.11082376"
+        },
+        {
+            "video": "Flips_crf_32_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.95664935"
+        },
+        {
+            "video": "Flips_crf_34_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.12983774"
+        },
+        {
+            "video": "Flips_crf_35_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.92310103"
+        },
+        {
+            "video": "Flips_crf_36_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "71.48640551"
+        },
+        {
+            "video": "Flips_crf_44_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.76004977"
+        },
+        {
+            "video": "Flips_crf_45_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.52038836"
+        },
+        {
+            "video": "Flips_crf_48_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "37.47527434"
+        },
+        {
+            "video": "Flips_crf_48_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.39225058"
+        },
+        {
+            "video": "Flips_crf_48_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.2230318"
+        },
+        {
+            "video": "Flips_crf_50_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.4751894"
+        },
+        {
+            "video": "Flips_crf_50_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.29872513"
+        },
+        {
+            "video": "Flips_crf_52_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.44504641"
+        },
+        {
+            "video": "Flips_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "71.10080482"
+        },
+        {
+            "video": "Flips_crf_54_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.92012475"
+        },
+        {
+            "video": "Flips_crf_56_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.72285633"
+        },
+        {
+            "video": "Flips_crf_58_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.37038275"
+        },
+        {
+            "video": "Flips_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "26.15456703"
+        },
+        {
+            "video": "Flips_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "35.17164657"
+        },
+        {
+            "video": "Flips_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "42.96326807"
+        },
+        {
+            "video": "Flips_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.25426564"
+        },
+        {
+            "video": "Flips_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.72378656"
+        },
+        {
+            "video": "Flips_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.66392842"
+        },
+        {
+            "video": "Hurdles_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.2562337"
+        },
+        {
+            "video": "Hurdles_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.86913225"
+        },
+        {
+            "video": "Hurdles_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.0303138"
+        },
+        {
+            "video": "Hurdles_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.61996294"
+        },
+        {
+            "video": "Hurdles_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "70.99741261"
+        },
+        {
+            "video": "Hurdles_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "69.45806328"
+        },
+        {
+            "video": "Hurdles_crf_26_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.61409043"
+        },
+        {
+            "video": "Hurdles_crf_28_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.19690157"
+        },
+        {
+            "video": "Hurdles_crf_32_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.77029906"
+        },
+        {
+            "video": "Hurdles_crf_34_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.51001568"
+        },
+        {
+            "video": "Hurdles_crf_36_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.24967285"
+        },
+        {
+            "video": "Hurdles_crf_36_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "69.58350761"
+        },
+        {
+            "video": "Hurdles_crf_42_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.81519485"
+        },
+        {
+            "video": "Hurdles_crf_44_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.73603162"
+        },
+        {
+            "video": "Hurdles_crf_46_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.00932744"
+        },
+        {
+            "video": "Hurdles_crf_48_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.08933979"
+        },
+        {
+            "video": "Hurdles_crf_48_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.92857187"
+        },
+        {
+            "video": "Hurdles_crf_48_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.67765904"
+        },
+        {
+            "video": "Hurdles_crf_50_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.07575188"
+        },
+        {
+            "video": "Hurdles_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.1143984"
+        },
+        {
+            "video": "Hurdles_crf_54_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.79924351"
+        },
+        {
+            "video": "Hurdles_crf_54_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.02491692"
+        },
+        {
+            "video": "Hurdles_crf_56_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.88875721"
+        },
+        {
+            "video": "Hurdles_crf_58_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.81104428"
+        },
+        {
+            "video": "Hurdles_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "27.87162703"
+        },
+        {
+            "video": "Hurdles_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "28.87246743"
+        },
+        {
+            "video": "Hurdles_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "35.81463582"
+        },
+        {
+            "video": "Hurdles_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.36114171"
+        },
+        {
+            "video": "Hurdles_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.64923617"
+        },
+        {
+            "video": "Hurdles_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.00079426"
+        },
+        {
+            "video": "LongJump_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.51936684"
+        },
+        {
+            "video": "LongJump_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.59761206"
+        },
+        {
+            "video": "LongJump_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.97635623"
+        },
+        {
+            "video": "LongJump_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.71669808"
+        },
+        {
+            "video": "LongJump_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "69.75506451"
+        },
+        {
+            "video": "LongJump_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "68.03678451"
+        },
+        {
+            "video": "LongJump_crf_24_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.19610809"
+        },
+        {
+            "video": "LongJump_crf_26_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.65001759"
+        },
+        {
+            "video": "LongJump_crf_32_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.46328913"
+        },
+        {
+            "video": "LongJump_crf_34_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.17996168"
+        },
+        {
+            "video": "LongJump_crf_36_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.89886286"
+        },
+        {
+            "video": "LongJump_crf_36_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "69.29652657"
+        },
+        {
+            "video": "LongJump_crf_40_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.80602947"
+        },
+        {
+            "video": "LongJump_crf_42_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.87698088"
+        },
+        {
+            "video": "LongJump_crf_44_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.22848968"
+        },
+        {
+            "video": "LongJump_crf_45_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.47454217"
+        },
+        {
+            "video": "LongJump_crf_46_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.91953356"
+        },
+        {
+            "video": "LongJump_crf_48_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.67918254"
+        },
+        {
+            "video": "LongJump_crf_50_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.18843025"
+        },
+        {
+            "video": "LongJump_crf_52_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.61078392"
+        },
+        {
+            "video": "LongJump_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.97486757"
+        },
+        {
+            "video": "LongJump_crf_54_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.11790784"
+        },
+        {
+            "video": "LongJump_crf_56_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.87162058"
+        },
+        {
+            "video": "LongJump_crf_58_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "56.08860289"
+        },
+        {
+            "video": "LongJump_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "26.81957253"
+        },
+        {
+            "video": "LongJump_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "28.79001073"
+        },
+        {
+            "video": "LongJump_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "38.17498909"
+        },
+        {
+            "video": "LongJump_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.17804244"
+        },
+        {
+            "video": "LongJump_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.29179691"
+        },
+        {
+            "video": "LongJump_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.25865766"
+        },
+        {
+            "video": "bobblehead_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.1452094"
+        },
+        {
+            "video": "bobblehead_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.64216588"
+        },
+        {
+            "video": "bobblehead_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.09422498"
+        },
+        {
+            "video": "bobblehead_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.48188383"
+        },
+        {
+            "video": "bobblehead_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.05223448"
+        },
+        {
+            "video": "bobblehead_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.72140271"
+        },
+        {
+            "video": "bobblehead_crf_8_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.22673488"
+        },
+        {
+            "video": "bobblehead_crf_8_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.7628888"
+        },
+        {
+            "video": "bobblehead_crf_12_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.39938117"
+        },
+        {
+            "video": "bobblehead_crf_16_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.29577762"
+        },
+        {
+            "video": "bobblehead_crf_16_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.98675185"
+        },
+        {
+            "video": "bobblehead_crf_16_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.08647789"
+        },
+        {
+            "video": "bobblehead_crf_20_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.66582479"
+        },
+        {
+            "video": "bobblehead_crf_20_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.13373763"
+        },
+        {
+            "video": "bobblehead_crf_28_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.84131678"
+        },
+        {
+            "video": "bobblehead_crf_28_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.77944696"
+        },
+        {
+            "video": "bobblehead_crf_32_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.43647454"
+        },
+        {
+            "video": "bobblehead_crf_32_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.51167261"
+        },
+        {
+            "video": "bobblehead_crf_32_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.67994143"
+        },
+        {
+            "video": "bobblehead_crf_36_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.89719691"
+        },
+        {
+            "video": "bobblehead_crf_40_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.43325814"
+        },
+        {
+            "video": "bobblehead_crf_44_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.86357872"
+        },
+        {
+            "video": "bobblehead_crf_44_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.50319016"
+        },
+        {
+            "video": "bobblehead_crf_48_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.93217027"
+        },
+        {
+            "video": "bobblehead_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "23.69196338"
+        },
+        {
+            "video": "bobblehead_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "25.62873345"
+        },
+        {
+            "video": "bobblehead_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "32.66110489"
+        },
+        {
+            "video": "bobblehead_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "33.57766741"
+        },
+        {
+            "video": "bobblehead_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "30.1929564"
+        },
+        {
+            "video": "bobblehead_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "34.34568268"
+        },
+        {
+            "video": "books_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "39.71566395"
+        },
+        {
+            "video": "books_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.78320177"
+        },
+        {
+            "video": "books_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.29590711"
+        },
+        {
+            "video": "books_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.12087297"
+        },
+        {
+            "video": "books_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.64686188"
+        },
+        {
+            "video": "books_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "68.34991804"
+        },
+        {
+            "video": "books_crf_12_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "39.28009437"
+        },
+        {
+            "video": "books_crf_16_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "42.29469997"
+        },
+        {
+            "video": "books_crf_20_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.93829683"
+        },
+        {
+            "video": "books_crf_20_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.3411495"
+        },
+        {
+            "video": "books_crf_24_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.31284939"
+        },
+        {
+            "video": "books_crf_24_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "68.26301962"
+        },
+        {
+            "video": "books_crf_28_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "34.40234492"
+        },
+        {
+            "video": "books_crf_28_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.4585857"
+        },
+        {
+            "video": "books_crf_32_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.99640876"
+        },
+        {
+            "video": "books_crf_36_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.1011963"
+        },
+        {
+            "video": "books_crf_36_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.71425123"
+        },
+        {
+            "video": "books_crf_36_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.65651986"
+        },
+        {
+            "video": "books_crf_44_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "36.66051908"
+        },
+        {
+            "video": "books_crf_44_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "39.00093572"
+        },
+        {
+            "video": "books_crf_48_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.7116714"
+        },
+        {
+            "video": "books_crf_48_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.46165133"
+        },
+        {
+            "video": "books_crf_52_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.1178499"
+        },
+        {
+            "video": "books_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.78918661"
+        },
+        {
+            "video": "books_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "28.15185381"
+        },
+        {
+            "video": "books_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "29.8626675"
+        },
+        {
+            "video": "books_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "34.89709385"
+        },
+        {
+            "video": "books_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "38.3841662"
+        },
+        {
+            "video": "books_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "40.16260913"
+        },
+        {
+            "video": "books_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.94583592"
+        },
+        {
+            "video": "bouncyball_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.13019878"
+        },
+        {
+            "video": "bouncyball_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.46129756"
+        },
+        {
+            "video": "bouncyball_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "70.22281805"
+        },
+        {
+            "video": "bouncyball_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.2738787"
+        },
+        {
+            "video": "bouncyball_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "68.14423681"
+        },
+        {
+            "video": "bouncyball_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "71.16144521"
+        },
+        {
+            "video": "bouncyball_crf_12_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.24976841"
+        },
+        {
+            "video": "bouncyball_crf_16_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.5912009"
+        },
+        {
+            "video": "bouncyball_crf_24_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.48419903"
+        },
+        {
+            "video": "bouncyball_crf_24_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.02582861"
+        },
+        {
+            "video": "bouncyball_crf_28_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.89460085"
+        },
+        {
+            "video": "bouncyball_crf_28_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.71904176"
+        },
+        {
+            "video": "bouncyball_crf_28_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "68.27689288"
+        },
+        {
+            "video": "bouncyball_crf_32_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.76992936"
+        },
+        {
+            "video": "bouncyball_crf_32_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.0178652"
+        },
+        {
+            "video": "bouncyball_crf_36_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.74066985"
+        },
+        {
+            "video": "bouncyball_crf_40_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.1930132"
+        },
+        {
+            "video": "bouncyball_crf_40_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.69277225"
+        },
+        {
+            "video": "bouncyball_crf_44_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.20118632"
+        },
+        {
+            "video": "bouncyball_crf_44_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.87705164"
+        },
+        {
+            "video": "bouncyball_crf_44_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.15108211"
+        },
+        {
+            "video": "bouncyball_crf_48_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.83347338"
+        },
+        {
+            "video": "bouncyball_crf_48_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.59053355"
+        },
+        {
+            "video": "bouncyball_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.1007132"
+        },
+        {
+            "video": "bouncyball_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "20.50153588"
+        },
+        {
+            "video": "bouncyball_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "19.26611369"
+        },
+        {
+            "video": "bouncyball_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "29.1174889"
+        },
+        {
+            "video": "bouncyball_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "33.54645128"
+        },
+        {
+            "video": "bouncyball_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "31.00411808"
+        },
+        {
+            "video": "bouncyball_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "33.87946895"
+        },
+        {
+            "video": "catchtrack_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "33.01589796"
+        },
+        {
+            "video": "catchtrack_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.37038791"
+        },
+        {
+            "video": "catchtrack_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.54207676"
+        },
+        {
+            "video": "catchtrack_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "54.85700019"
+        },
+        {
+            "video": "catchtrack_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.53836283"
+        },
+        {
+            "video": "catchtrack_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.75197525"
+        },
+        {
+            "video": "catchtrack_crf_8_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "36.18226911"
+        },
+        {
+            "video": "catchtrack_crf_8_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.97513258"
+        },
+        {
+            "video": "catchtrack_crf_16_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "36.02642655"
+        },
+        {
+            "video": "catchtrack_crf_16_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.14428355"
+        },
+        {
+            "video": "catchtrack_crf_16_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.28642177"
+        },
+        {
+            "video": "catchtrack_crf_20_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "56.09016691"
+        },
+        {
+            "video": "catchtrack_crf_20_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.28950778"
+        },
+        {
+            "video": "catchtrack_crf_24_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.77009426"
+        },
+        {
+            "video": "catchtrack_crf_32_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "33.91256549"
+        },
+        {
+            "video": "catchtrack_crf_32_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "42.05040664"
+        },
+        {
+            "video": "catchtrack_crf_32_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.30967012"
+        },
+        {
+            "video": "catchtrack_crf_36_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "56.3079673"
+        },
+        {
+            "video": "catchtrack_crf_36_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.49301499"
+        },
+        {
+            "video": "catchtrack_crf_36_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.6495346"
+        },
+        {
+            "video": "catchtrack_crf_48_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.73469089"
+        },
+        {
+            "video": "catchtrack_crf_52_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.82683035"
+        },
+        {
+            "video": "catchtrack_crf_52_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.61316572"
+        },
+        {
+            "video": "catchtrack_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.75264736"
+        },
+        {
+            "video": "catchtrack_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "21.68368441"
+        },
+        {
+            "video": "catchtrack_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "22.19097598"
+        },
+        {
+            "video": "catchtrack_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "31.08481683"
+        },
+        {
+            "video": "catchtrack_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "31.30874285"
+        },
+        {
+            "video": "catchtrack_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "36.51079694"
+        },
+        {
+            "video": "catchtrack_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "35.18381006"
+        },
+        {
+            "video": "cyclist_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "35.97426478"
+        },
+        {
+            "video": "cyclist_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.63531811"
+        },
+        {
+            "video": "cyclist_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.36112272"
+        },
+        {
+            "video": "cyclist_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.03888203"
+        },
+        {
+            "video": "cyclist_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.90611521"
+        },
+        {
+            "video": "cyclist_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.73026074"
+        },
+        {
+            "video": "cyclist_crf_16_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.0239914"
+        },
+        {
+            "video": "cyclist_crf_20_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.52651118"
+        },
+        {
+            "video": "cyclist_crf_24_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.90634616"
+        },
+        {
+            "video": "cyclist_crf_28_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.43401079"
+        },
+        {
+            "video": "cyclist_crf_28_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.40010255"
+        },
+        {
+            "video": "cyclist_crf_28_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.84878598"
+        },
+        {
+            "video": "cyclist_crf_32_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.70716541"
+        },
+        {
+            "video": "cyclist_crf_36_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.36862133"
+        },
+        {
+            "video": "cyclist_crf_40_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "39.69401461"
+        },
+        {
+            "video": "cyclist_crf_40_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.26912165"
+        },
+        {
+            "video": "cyclist_crf_40_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.72929991"
+        },
+        {
+            "video": "cyclist_crf_44_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.08210119"
+        },
+        {
+            "video": "cyclist_crf_44_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.08219767"
+        },
+        {
+            "video": "cyclist_crf_44_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.61883866"
+        },
+        {
+            "video": "cyclist_crf_48_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.86378294"
+        },
+        {
+            "video": "cyclist_crf_48_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "54.12508257"
+        },
+        {
+            "video": "cyclist_crf_52_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.2945336"
+        },
+        {
+            "video": "cyclist_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.81046226"
+        },
+        {
+            "video": "cyclist_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "21.84575295"
+        },
+        {
+            "video": "cyclist_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "22.70728727"
+        },
+        {
+            "video": "cyclist_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "31.14254633"
+        },
+        {
+            "video": "cyclist_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "33.13162176"
+        },
+        {
+            "video": "cyclist_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "31.84103718"
+        },
+        {
+            "video": "cyclist_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "34.85299506"
+        },
+        {
+            "video": "hamster_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.74699757"
+        },
+        {
+            "video": "hamster_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.95929275"
+        },
+        {
+            "video": "hamster_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.05532643"
+        },
+        {
+            "video": "hamster_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.27392711"
+        },
+        {
+            "video": "hamster_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.89363032"
+        },
+        {
+            "video": "hamster_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "68.45421845"
+        },
+        {
+            "video": "hamster_crf_12_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.71183989"
+        },
+        {
+            "video": "hamster_crf_12_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.08611658"
+        },
+        {
+            "video": "hamster_crf_20_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.58559302"
+        },
+        {
+            "video": "hamster_crf_24_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.45069944"
+        },
+        {
+            "video": "hamster_crf_24_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.46303259"
+        },
+        {
+            "video": "hamster_crf_24_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.82737179"
+        },
+        {
+            "video": "hamster_crf_28_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.20608161"
+        },
+        {
+            "video": "hamster_crf_28_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.03140379"
+        },
+        {
+            "video": "hamster_crf_32_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.46245418"
+        },
+        {
+            "video": "hamster_crf_32_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.87846386"
+        },
+        {
+            "video": "hamster_crf_36_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.71452899"
+        },
+        {
+            "video": "hamster_crf_36_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "54.87885677"
+        },
+        {
+            "video": "hamster_crf_36_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.8747576"
+        },
+        {
+            "video": "hamster_crf_36_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.08372022"
+        },
+        {
+            "video": "hamster_crf_44_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.17646154"
+        },
+        {
+            "video": "hamster_crf_48_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.57082208"
+        },
+        {
+            "video": "hamster_crf_52_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.57414487"
+        },
+        {
+            "video": "hamster_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.69256114"
+        },
+        {
+            "video": "hamster_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "31.19364333"
+        },
+        {
+            "video": "hamster_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "33.18490042"
+        },
+        {
+            "video": "hamster_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "42.25956033"
+        },
+        {
+            "video": "hamster_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "40.92470125"
+        },
+        {
+            "video": "hamster_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.32367974"
+        },
+        {
+            "video": "hamster_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.72935619"
+        },
+        {
+            "video": "lamppost_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.7802306"
+        },
+        {
+            "video": "lamppost_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.9015064"
+        },
+        {
+            "video": "lamppost_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "66.3552374"
+        },
+        {
+            "video": "lamppost_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.4097034"
+        },
+        {
+            "video": "lamppost_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "67.52214617"
+        },
+        {
+            "video": "lamppost_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "73.93564572"
+        },
+        {
+            "video": "lamppost_crf_32_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.75875893"
+        },
+        {
+            "video": "lamppost_crf_36_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.70688005"
+        },
+        {
+            "video": "lamppost_crf_40_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.56138515"
+        },
+        {
+            "video": "lamppost_crf_44_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.14674956"
+        },
+        {
+            "video": "lamppost_crf_44_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "60.35000806"
+        },
+        {
+            "video": "lamppost_crf_44_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.65718236"
+        },
+        {
+            "video": "lamppost_crf_44_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.41111088"
+        },
+        {
+            "video": "lamppost_crf_48_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "39.11911086"
+        },
+        {
+            "video": "lamppost_crf_48_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.42317975"
+        },
+        {
+            "video": "lamppost_crf_48_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.33387008"
+        },
+        {
+            "video": "lamppost_crf_52_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "39.86067449"
+        },
+        {
+            "video": "lamppost_crf_52_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.92926755"
+        },
+        {
+            "video": "lamppost_crf_52_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.299977"
+        },
+        {
+            "video": "lamppost_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "56.18412156"
+        },
+        {
+            "video": "lamppost_crf_56_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.2784647"
+        },
+        {
+            "video": "lamppost_crf_56_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.03967315"
+        },
+        {
+            "video": "lamppost_crf_60_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.6279637"
+        },
+        {
+            "video": "lamppost_crf_60_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "40.23901716"
+        },
+        {
+            "video": "lamppost_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "28.23066133"
+        },
+        {
+            "video": "lamppost_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "28.92152595"
+        },
+        {
+            "video": "lamppost_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "32.2473773"
+        },
+        {
+            "video": "lamppost_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "37.24679955"
+        },
+        {
+            "video": "lamppost_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "39.48086764"
+        },
+        {
+            "video": "lamppost_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "37.43804704"
+        },
+        {
+            "video": "leaves_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "38.50340112"
+        },
+        {
+            "video": "leaves_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.16440594"
+        },
+        {
+            "video": "leaves_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.93413679"
+        },
+        {
+            "video": "leaves_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.75739281"
+        },
+        {
+            "video": "leaves_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "56.07043708"
+        },
+        {
+            "video": "leaves_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.89719169"
+        },
+        {
+            "video": "leaves_crf_12_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "32.35919608"
+        },
+        {
+            "video": "leaves_crf_16_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.7921707"
+        },
+        {
+            "video": "leaves_crf_20_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "31.62849757"
+        },
+        {
+            "video": "leaves_crf_24_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "40.89723258"
+        },
+        {
+            "video": "leaves_crf_24_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.85095969"
+        },
+        {
+            "video": "leaves_crf_28_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.6176926"
+        },
+        {
+            "video": "leaves_crf_28_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.09576579"
+        },
+        {
+            "video": "leaves_crf_32_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "37.66667435"
+        },
+        {
+            "video": "leaves_crf_32_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "42.3921054"
+        },
+        {
+            "video": "leaves_crf_32_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.00750311"
+        },
+        {
+            "video": "leaves_crf_32_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.77025354"
+        },
+        {
+            "video": "leaves_crf_36_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.9090802"
+        },
+        {
+            "video": "leaves_crf_40_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.28862283"
+        },
+        {
+            "video": "leaves_crf_40_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.09393835"
+        },
+        {
+            "video": "leaves_crf_44_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.72944257"
+        },
+        {
+            "video": "leaves_crf_48_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.0769044"
+        },
+        {
+            "video": "leaves_crf_48_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.49259137"
+        },
+        {
+            "video": "leaves_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "42.96854394"
+        },
+        {
+            "video": "leaves_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "24.21345898"
+        },
+        {
+            "video": "leaves_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "20.33729875"
+        },
+        {
+            "video": "leaves_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "32.47236384"
+        },
+        {
+            "video": "leaves_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "34.2116117"
+        },
+        {
+            "video": "leaves_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "32.18729475"
+        },
+        {
+            "video": "leaves_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "35.3292896"
+        },
+        {
+            "video": "library_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.95961773"
+        },
+        {
+            "video": "library_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.63215173"
+        },
+        {
+            "video": "library_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.561153"
+        },
+        {
+            "video": "library_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "62.60019821"
+        },
+        {
+            "video": "library_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.57558274"
+        },
+        {
+            "video": "library_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "70.93585602"
+        },
+        {
+            "video": "library_crf_20_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.02903842"
+        },
+        {
+            "video": "library_crf_20_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.62539486"
+        },
+        {
+            "video": "library_crf_28_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.01875395"
+        },
+        {
+            "video": "library_crf_28_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.74749489"
+        },
+        {
+            "video": "library_crf_28_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.04228291"
+        },
+        {
+            "video": "library_crf_28_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.59448311"
+        },
+        {
+            "video": "library_crf_36_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.88005427"
+        },
+        {
+            "video": "library_crf_36_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.84524894"
+        },
+        {
+            "video": "library_crf_40_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.14962244"
+        },
+        {
+            "video": "library_crf_40_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.19551055"
+        },
+        {
+            "video": "library_crf_44_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "37.33429468"
+        },
+        {
+            "video": "library_crf_44_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.9828937"
+        },
+        {
+            "video": "library_crf_44_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "54.39102592"
+        },
+        {
+            "video": "library_crf_44_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.22173772"
+        },
+        {
+            "video": "library_crf_48_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "40.31458955"
+        },
+        {
+            "video": "library_crf_48_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "50.22647014"
+        },
+        {
+            "video": "library_crf_52_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.97139076"
+        },
+        {
+            "video": "library_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.92653792"
+        },
+        {
+            "video": "library_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "18.22590921"
+        },
+        {
+            "video": "library_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "24.3381922"
+        },
+        {
+            "video": "library_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "26.80026076"
+        },
+        {
+            "video": "library_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "29.71522784"
+        },
+        {
+            "video": "library_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "23.62393578"
+        },
+        {
+            "video": "library_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "30.44393357"
+        },
+        {
+            "video": "pour_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "47.35711877"
+        },
+        {
+            "video": "pour_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "55.36813636"
+        },
+        {
+            "video": "pour_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.88330464"
+        },
+        {
+            "video": "pour_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.95491196"
+        },
+        {
+            "video": "pour_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.07415276"
+        },
+        {
+            "video": "pour_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.16429512"
+        },
+        {
+            "video": "pour_crf_12_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.06444113"
+        },
+        {
+            "video": "pour_crf_16_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "54.15570232"
+        },
+        {
+            "video": "pour_crf_24_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.05742108"
+        },
+        {
+            "video": "pour_crf_24_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "61.87322612"
+        },
+        {
+            "video": "pour_crf_28_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.13006586"
+        },
+        {
+            "video": "pour_crf_28_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "64.03467521"
+        },
+        {
+            "video": "pour_crf_28_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "65.21042555"
+        },
+        {
+            "video": "pour_crf_32_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "44.01331522"
+        },
+        {
+            "video": "pour_crf_32_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "63.22678685"
+        },
+        {
+            "video": "pour_crf_36_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "49.04694768"
+        },
+        {
+            "video": "pour_crf_36_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.88887171"
+        },
+        {
+            "video": "pour_crf_40_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.35866788"
+        },
+        {
+            "video": "pour_crf_40_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.57178603"
+        },
+        {
+            "video": "pour_crf_44_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.18068589"
+        },
+        {
+            "video": "pour_crf_44_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.3459275"
+        },
+        {
+            "video": "pour_crf_48_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.19799879"
+        },
+        {
+            "video": "pour_crf_48_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "53.02339566"
+        },
+        {
+            "video": "pour_crf_52_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.76820596"
+        },
+        {
+            "video": "pour_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "19.54123759"
+        },
+        {
+            "video": "pour_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "22.78409035"
+        },
+        {
+            "video": "pour_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "29.5849793"
+        },
+        {
+            "video": "pour_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "35.35057091"
+        },
+        {
+            "video": "pour_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "29.09537111"
+        },
+        {
+            "video": "pour_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "34.8837515"
+        },
+        {
+            "video": "watersplashing_crf_0_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "38.21484671"
+        },
+        {
+            "video": "watersplashing_crf_0_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.35128964"
+        },
+        {
+            "video": "watersplashing_crf_0_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.69468628"
+        },
+        {
+            "video": "watersplashing_crf_0_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "57.27335118"
+        },
+        {
+            "video": "watersplashing_crf_0_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "58.98666467"
+        },
+        {
+            "video": "watersplashing_crf_0_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "59.1536031"
+        },
+        {
+            "video": "watersplashing_crf_24_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "35.57970732"
+        },
+        {
+            "video": "watersplashing_crf_28_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.89354987"
+        },
+        {
+            "video": "watersplashing_crf_32_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "32.21513954"
+        },
+        {
+            "video": "watersplashing_crf_36_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "41.64071851"
+        },
+        {
+            "video": "watersplashing_crf_36_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.232786"
+        },
+        {
+            "video": "watersplashing_crf_40_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "35.36339216"
+        },
+        {
+            "video": "watersplashing_crf_44_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "38.24394963"
+        },
+        {
+            "video": "watersplashing_crf_44_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.14673264"
+        },
+        {
+            "video": "watersplashing_crf_44_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "52.9678665"
+        },
+        {
+            "video": "watersplashing_crf_48_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.32424662"
+        },
+        {
+            "video": "watersplashing_crf_48_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "51.16088674"
+        },
+        {
+            "video": "watersplashing_crf_52_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "46.09265226"
+        },
+        {
+            "video": "watersplashing_crf_52_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.0204596"
+        },
+        {
+            "video": "watersplashing_crf_52_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.9235889"
+        },
+        {
+            "video": "watersplashing_crf_56_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "43.94639136"
+        },
+        {
+            "video": "watersplashing_crf_56_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "48.86590563"
+        },
+        {
+            "video": "watersplashing_crf_60_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "40.87953016"
+        },
+        {
+            "video": "watersplashing_crf_60_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "45.25844573"
+        },
+        {
+            "video": "watersplashing_crf_63_24fps.mp4",
+            "ann_type": "mos",
+            "mos": "10.35764658"
+        },
+        {
+            "video": "watersplashing_crf_63_30fps.mp4",
+            "ann_type": "mos",
+            "mos": "14.09512202"
+        },
+        {
+            "video": "watersplashing_crf_63_60fps.mp4",
+            "ann_type": "mos",
+            "mos": "26.88032664"
+        },
+        {
+            "video": "watersplashing_crf_63_82fps.mp4",
+            "ann_type": "mos",
+            "mos": "26.37110873"
+        },
+        {
+            "video": "watersplashing_crf_63_98fps.mp4",
+            "ann_type": "mos",
+            "mos": "27.40520208"
+        },
+        {
+            "video": "watersplashing_crf_63_120fps.mp4",
+            "ann_type": "mos",
+            "mos": "30.16365356"
+        }
+    ]

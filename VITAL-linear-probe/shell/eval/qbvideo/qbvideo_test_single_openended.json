@@ -1,0 +1,5047 @@
+[
+    {
+        "video": "1276.mp4",
+        "question": "This is a piece of video with poor quality. If I want to enhance its display quality, how should I operate it best?",
+        "answers": [
+            "First, you should perform stabilization processing on the video. After that, apply super-resolution or deblurring techniques to improve the clarity of the video.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "First, you should perform stabilization processing on the video. After that, apply super-resolution or deblurring techniques to improve the clarity of the video."
+    },
+    {
+        "video": "0361.mp4",
+        "question": "What is the most impactful quality issue of this video?",
+        "answers": [
+            "Blur",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blur"
+    },
+    {
+        "video": "0504.mp4",
+        "question": "What distortions are present on the left side of the man's face in the video?",
+        "answers": [
+            "Blurriness, low lighting, and stuttering.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Blurriness, low lighting, and stuttering."
+    },
+    {
+        "video": "8001074.mp4",
+        "question": "Please briefly describe the quality level of this generated video?",
+        "answers": [
+            "The video has low clarity; there are errors in character structure generation, the facial features and limbs are uncoordinated, and the background is chaotic. Therefore, the visual quality is quite poor.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The video has low clarity; there are errors in character structure generation, the facial features and limbs are uncoordinated, and the background is chaotic. Therefore, the visual quality is quite poor."
+    },
+    {
+        "video": "0779.mp4",
+        "question": "Does the underwater camera shift cause serious overexposure in this video?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "FCB07.mp4",
+        "question": "How does the clarity of this soccer video change?",
+        "answers": [
+            "It changes from poor to good, then back to poor.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "It changes from poor to good, then back to poor."
+    },
+    {
+        "video": "0064.mp4",
+        "question": "How to improve the main quality issue of this video?",
+        "answers": [
+            "Increase the compression rate and use better filming equipment",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Increase the compression rate and use better filming equipment"
+    },
+    {
+        "video": "04675_02.mp4",
+        "question": "In this video, which affects the viewing experience more: blurriness or lack of realism?",
+        "answers": [
+            "Lack of realism",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Lack of realism"
+    },
+    {
+        "video": "4469.mp4",
+        "question": "What is the most obvious artifact in the background sky of this video?",
+        "answers": [
+            "Overexposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Overexposure"
+    },
+    {
+        "video": "3045.mp4",
+        "question": "Is the video frame-skipped? Analyze from the motion coherence",
+        "answers": [
+            "Yes, the video has undergone frame skipping. This is because there are multiple abrupt changes and sudden shifts in scenes and characters during the video, which is a clear indication of frame skipping.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Yes, the video has undergone frame skipping. This is because there are multiple abrupt changes and sudden shifts in scenes and characters during the video, which is a clear indication of frame skipping."
+    },
+    {
+        "video": "1002751.mp4",
+        "question": "What quality issues are present in this video?",
+        "answers": [
+            "Blurry, inconsistent style, unclear main character structure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurry, inconsistent style, unclear main character structure"
+    },
+    {
+        "video": "03269_08.mp4",
+        "question": "Is there any flickering in the video?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "7000608.mp4",
+        "question": "What are the unrealistic aspects of this video?",
+        "answers": [
+            "The texture of the background plants is unrealistic, the structure of the ninja's body is incorrect, the ninja's movements are erratic and inconsistent.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The texture of the background plants is unrealistic, the structure of the ninja's body is incorrect, the ninja's movements are erratic and inconsistent."
+    },
+    {
+        "video": "6001639.mp4",
+        "question": "What quality issues are present in this video?",
+        "answers": [
+            "Blurriness, overexposure, structural errors in the characters",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurriness, overexposure, structural errors in the characters"
+    },
+    {
+        "video": "3001180.mp4",
+        "question": "What feeling does this video create?",
+        "answers": [
+            "Creepy and scary",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Creepy and scary"
+    },
+    {
+        "video": "3079.mp4",
+        "question": "This video presents three scenes. Please briefly describe the quality of the three scenes.",
+        "answers": [
+            "The quality of the first scene is relatively poor, with significant noise present. Additionally, the faces of band members are overexposed and appear washed out overall. The quality of the second scene is good, with appropriate light intensity and contrast, and no obvious loss of detail. The quality of the third scene is relatively poor, with significant and noticeable blurriness in the frame.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The quality of the first scene is relatively poor, with significant noise present. Additionally, the faces of band members are overexposed and appear washed out overall. The quality of the second scene is good, with appropriate light intensity and contrast, and no obvious loss of detail. The quality of the third scene is relatively poor, with significant and noticeable blurriness in the frame."
+    },
+    {
+        "video": "3669.mp4",
+        "question": "Why is this video considered to be of high quality?",
+        "answers": [
+            "The video has a high clarity, clear frame, smooth playback without stuttering, and stable camera work.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The video has a high clarity, clear frame, smooth playback without stuttering, and stable camera work."
+    },
+    {
+        "video": "4518.mp4",
+        "question": "What are the main quality factors affecting the viewing experience of this video?",
+        "answers": [
+            "The watermark floating at the top of the video",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The watermark floating at the top of the video"
+    },
+    {
+        "video": "0002158.mp4",
+        "question": "What is the most unrealistic part of this video?",
+        "answers": [
+            "The interaction between the axe and the tree",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The interaction between the axe and the tree"
+    },
+    {
+        "video": "4511.mp4",
+        "question": "Is the clarity of the subtitles in this video higher compared to the displayed text?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "1003528.mp4",
+        "question": "What distortions exist in this video?",
+        "answers": [
+            "Underexposure, blurriness, monochromatic color",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Underexposure, blurriness, monochromatic color"
+    },
+    {
+        "video": "3569.mp4",
+        "question": "Is the appearance of birds clear in the video?",
+        "answers": [
+            "The clarity is poor. One can only distinguish the outline of the birds, but the video is very blurry, and details are almost impossible to observe.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The clarity is poor. One can only distinguish the outline of the birds, but the video is very blurry, and details are almost impossible to observe."
+    },
+    {
+        "video": "s000816.mp4",
+        "question": "Are the movements of the animals in this video smooth and continuous?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "4182.mp4",
+        "question": "How is the overall clarity of this video?",
+        "answers": [
+            "Quite good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite good"
+    },
+    {
+        "video": "LegendZeldaBreathWild-011.mp4",
+        "question": "What is the most obvious quality issue in this game video?",
+        "answers": [
+            "Low rendering precision",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low rendering precision"
+    },
+    {
+        "video": "08954_04.mp4",
+        "question": "How clear is the background plant in the video?",
+        "answers": [
+            "Very poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very poor"
+    },
+    {
+        "video": "RDR-059.mp4",
+        "question": "What is the most significant distortion affecting the quality of the viewing experience of this game video?",
+        "answers": [
+            "The lighting is relatively poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The lighting is relatively poor"
+    },
+    {
+        "video": "2543.mp4",
+        "question": "How would you describe the presentation quality of the man's hands and their movements in this video?",
+        "answers": [
+            "The man's hands in this video are generally clearly presented. Although the video is slightly blurry, it does not affect the discernibility of his movements.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The man's hands in this video are generally clearly presented. Although the video is slightly blurry, it does not affect the discernibility of his movements."
+    },
+    {
+        "video": "3987.mp4",
+        "question": "Is the man in this video clearly discernible? Answer the questions and make a brief analysis.",
+        "answers": [
+            "Yes, the man in the video is clearly recognizable. We can clearly see his hand movements, and once his face comes into the shot, we can also recognize it distinctly.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes, the man in the video is clearly recognizable. We can clearly see his hand movements, and once his face comes into the shot, we can also recognize it distinctly."
+    },
+    {
+        "video": "4267.mp4",
+        "question": "What is the difference between the man's facial close-up in the video\u9225\u6a9a opening song and a typical facial close-up?",
+        "answers": [
+            "In this facial close-up, the man's face shows a stronger purple tone under the background lighting, which is rarely seen in normal facial shooting footage.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "In this facial close-up, the man's face shows a stronger purple tone under the background lighting, which is rarely seen in normal facial shooting footage."
+    },
+    {
+        "video": "4096.mp4",
+        "question": "Why does the cat in the video appear so appealing? Please explain.",
+        "answers": [
+            "The cat's movements are smooth and non-jerky, the colors are natural and accurate, the brightness is natural, and the screen is stable.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The cat's movements are smooth and non-jerky, the colors are natural and accurate, the brightness is natural, and the screen is stable."
+    },
+    {
+        "video": "0192.mp4",
+        "question": "What is the most impactful distortion during the long jump in the first half of this video?",
+        "answers": [
+            "motion blur",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "motion blur"
+    },
+    {
+        "video": "4247.mp4",
+        "question": "What are the reasons for the high quality of this video?",
+        "answers": [
+            "The frame is relatively clear, the transitions between scenes are artistic, and the movements of the characters in the video are very smooth.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The frame is relatively clear, the transitions between scenes are artistic, and the movements of the characters in the video are very smooth."
+    },
+    {
+        "video": "1645.mp4",
+        "question": "What distortions exist in the video? Please describe them.",
+        "answers": [
+            "The video generally has average clarity. There is noticeable screen shaking during scene transitions, and some scene transitions are too quick. Overall, the quality is relatively low.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The video generally has average clarity. There is noticeable screen shaking during scene transitions, and some scene transitions are too quick. Overall, the quality is relatively low."
+    },
+    {
+        "video": "4494.mp4",
+        "question": "What is the camera movement technique used in the first half of this video?",
+        "answers": [
+            "Zooming in for a close-up of the subject",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Zooming in for a close-up of the subject"
+    },
+    {
+        "video": "0000253.mp4",
+        "question": "What is the specific camera movement technique used in this video?",
+        "answers": [
+            "Rotational tracking shot",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Rotational tracking shot"
+    },
+    {
+        "video": "2005609.mp4",
+        "question": "What feeling does this video create?",
+        "answers": [
+            "Uncanny, strange, terrifying",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Uncanny, strange, terrifying"
+    },
+    {
+        "video": "2912.mp4",
+        "question": "How would you evaluate the distribution of colors and brightness of various plants in the background of this video?",
+        "answers": [
+            "The lighting distribution is uneven, leading to uneven brightness distribution. Some parts are overexposed, while others are underexposed, resulting in significant loss of detail in the darker areas.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The lighting distribution is uneven, leading to uneven brightness distribution. Some parts are overexposed, while others are underexposed, resulting in significant loss of detail in the darker areas."
+    },
+    {
+        "video": "4533.mp4",
+        "question": "How is the overall clarity of the video shot of the Stomach King contest?",
+        "answers": [
+            "Quite good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Quite good"
+    },
+    {
+        "video": "0253.mp4",
+        "question": "What is the main reason why this video is blurry?",
+        "answers": [
+            "Snow covered part of the lens, causing blurriness",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Snow covered part of the lens, causing blurriness"
+    },
+    {
+        "video": "4349.mp4",
+        "question": "How identifiable are the fish species appearing in the video?",
+        "answers": [
+            "The identifiability is quite good. Although the video as a whole is somewhat blurry, it does not affect the ability to identify the species and categories of these organisms.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The identifiability is quite good. Although the video as a whole is somewhat blurry, it does not affect the ability to identify the species and categories of these organisms."
+    },
+    {
+        "video": "0576.mp4",
+        "question": "How does the exposure change when the car just exits the tunnel in this video?",
+        "answers": [
+            "Outside the tunnel, the exposure goes back to normal; inside the tunnel, it is underexposed.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Outside the tunnel, the exposure goes back to normal; inside the tunnel, it is underexposed."
+    },
+    {
+        "video": "BirdOfPrey01.mp4",
+        "question": "If we don't count the buffering at the beginning, how many times did this video lag in total?",
+        "answers": [
+            "3",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "3"
+    },
+    {
+        "video": "1271.mp4",
+        "question": "How is the clarity of the sloth in the video?",
+        "answers": [
+            "The camera shakes violently, making it difficult to observe closely. There is a dropout phenomenon, and the sloth's movements are stuttered.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The camera shakes violently, making it difficult to observe closely. There is a dropout phenomenon, and the sloth's movements are stuttered."
+    },
+    {
+        "video": "2316.mp4",
+        "question": "How is the clarity of the person speaking in this video?",
+        "answers": [
+            "Poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor"
+    },
+    {
+        "video": "3333.mp4",
+        "question": "What is the most likely cause of the blurriness in this video?",
+        "answers": [
+            "Low visibility due to underwater filming",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low visibility due to underwater filming"
+    },
+    {
+        "video": "00590_01.mp4",
+        "question": "How is the clarity of grass, wood, and flowers in the video?",
+        "answers": [
+            "Poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor"
+    },
+    {
+        "video": "09296_01.mp4",
+        "question": "How realistic is the building in the video?",
+        "answers": [
+            "Very poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very poor"
+    },
+    {
+        "video": "3001589.mp4",
+        "question": "What feeling does this video give people?",
+        "answers": [
+            "This video is composed of a series of similar continuous white designs and faces, with low clarity, giving people a very surreal and bizarre feeling.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "This video is composed of a series of similar continuous white designs and faces, with low clarity, giving people a very surreal and bizarre feeling."
+    },
+    {
+        "video": "0124.mp4",
+        "question": "What are the causes of video distortion?",
+        "answers": [
+            "Low clarity, blurry content, inability to judge the surroundings, overexposure, overly bright faces of people",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low clarity, blurry content, inability to judge the surroundings, overexposure, overly bright faces of people"
+    },
+    {
+        "video": "0080.mp4",
+        "question": "What issues are present with the video quality?",
+        "answers": [
+            "The camera shakes violently, the exposure is too high, causing the sky to appear completely white, the clarity is low, and the surrounding environment is blurry.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The camera shakes violently, the exposure is too high, causing the sky to appear completely white, the clarity is low, and the surrounding environment is blurry."
+    },
+    {
+        "video": "0791.mp4",
+        "question": "This video is categorized as having poor quality. What are the reasons contributing to its poor quality?",
+        "answers": [
+            "Firstly, the video is heavily blurry and has significant noise, which negatively impacts the overall watching experience of the viewer. Secondly, the video suffers from severe shakiness, which can cause viewer discomfort. Lastly, the camera work is poorly handled, with unclear emphasis on the main subject."
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Firstly, the video is heavily blurry and has significant noise, which negatively impacts the overall watching experience of the viewer. Secondly, the video suffers from severe shakiness, which can cause viewer discomfort. Lastly, the camera work is poorly handled, with unclear emphasis on the main subject."
+    },
+    {
+        "video": "DarkSouls-072.mp4",
+        "question": "How is the texture detail of the game scene in this gameplay video?",
+        "answers": [
+            "Poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor"
+    },
+    {
+        "video": "Mtv08.mp4",
+        "question": "What is the most influential distortion affecting the quality of this video viewing experience?",
+        "answers": [
+            "Continuous buffering",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Continuous buffering"
+    },
+    {
+        "video": "s000056.mp4",
+        "question": "What distortions are present in this video?",
+        "answers": [
+            "Severe variations and blurriness in the lens",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Severe variations and blurriness in the lens"
+    },
+    {
+        "video": "1157.mp4",
+        "question": "How is the clarity of the skater in this video?",
+        "answers": [
+            "Poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor"
+    },
+    {
+        "video": "0612.mp4",
+        "question": "How would you describe the quality of the main character's facial appearance in the video?",
+        "answers": [
+            "The quality of the appearance is relatively poor due to environmental reasons. The lighting on the character's face is too strong, causing severe overexposure, which significantly reduces the quality of the character's facial appearance.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The quality of the appearance is relatively poor due to environmental reasons. The lighting on the character's face is too strong, causing severe overexposure, which significantly reduces the quality of the character's facial appearance."
+    },
+    {
+        "video": "1000344.mp4",
+        "question": "Please describe the quality level of this video in detail?",
+        "answers": [
+            "The video has relatively low clarity, with blurry and inaccurate facial features, incorrect structure, and disproportionate limbs. Therefore, the quality of this video is poor.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The video has relatively low clarity, with blurry and inaccurate facial features, incorrect structure, and disproportionate limbs. Therefore, the quality of this video is poor."
+    },
+    {
+        "video": "s000687.mp4",
+        "question": "What is the most creative aspect in this video?",
+        "answers": [
+            "The underwater creatures, such as fish and corals, are all made of origami.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The underwater creatures, such as fish and corals, are all made of origami."
+    },
+    {
+        "video": "s000214.mp4",
+        "question": "How is the cinematography of this video?",
+        "answers": [
+            "Quite professional, leaning towards digital technology",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Quite professional, leaning towards digital technology"
+    },
+    {
+        "video": "PUBG-044.mp4",
+        "question": "How detailed are the car models in this game video?",
+        "answers": [
+            "Not very detailed",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Not very detailed"
+    },
+    {
+        "video": "1000547.mp4",
+        "question": "Does the painting on the background of this video remain consistent in shape?",
+        "answers": [
+            "No, the size and content of the wall painting have significantly changed.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No, the size and content of the wall painting have significantly changed."
+    },
+    {
+        "video": "FCB01.mp4",
+        "question": "What is the network environment like where this streaming media is playing?",
+        "answers": [
+            "The internet speed is poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The internet speed is poor"
+    },
+    {
+        "video": "s000456.mp4",
+        "question": "How realistic are the animals in the video?",
+        "answers": [
+            "Quite realistic; the details and textures are fairly clear.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite realistic; the details and textures are fairly clear."
+    },
+    {
+        "video": "4323.mp4",
+        "question": "Does the background in the video become overexposed? If so, please describe whether the woman's face in the video became unrecognizable due to the distortion of the background.",
+        "answers": [
+            "The background in the video became overexposed. However, the woman's face in the video is clearly recognizable and is not affected by the background distortion.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The background in the video became overexposed. However, the woman's face in the video is clearly recognizable and is not affected by the background distortion."
+    },
+    {
+        "video": "Fallout-001.mp4",
+        "question": "How is the clarity of the game characters in this video?",
+        "answers": [
+            "Very poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very poor"
+    },
+    {
+        "video": "07658_00.mp4",
+        "question": "What is the most unrealistic part of the medical staff in the video?",
+        "answers": [
+            "Incorrect hand structures",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Incorrect hand structures"
+    },
+    {
+        "video": "2570.mp4",
+        "question": "What is the main reason for the quality of the infant's appearance in this video?",
+        "answers": [
+            "This video has significant noise, which causes the infant's face in the video to consistently appear blurry due to noise points. This is the main reason affecting the quality of the infant's appearance.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "This video has significant noise, which causes the infant's face in the video to consistently appear blurry due to noise points. This is the main reason affecting the quality of the infant's appearance."
+    },
+    {
+        "video": "2994.mp4",
+        "question": "This video is considered to have high aesthetic value. Please provide a brief analysis.",
+        "answers": [
+            "This video overall uses warm tones that match the elegant atmosphere of playing the piano. The video employs high contrast in lighting, which makes the performer stand out against the background. The camera movements are smooth and methodical, giving the composition a sense of layered depth.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "This video overall uses warm tones that match the elegant atmosphere of playing the piano. The video employs high contrast in lighting, which makes the performer stand out against the background. The camera movements are smooth and methodical, giving the composition a sense of layered depth."
+    },
+    {
+        "video": "3001166.mp4",
+        "question": "Are the movements of the girl hitting the golf ball in this video smooth and natural?",
+        "answers": [
+            "No, the movements have obvious discontinuities",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No, the movements have obvious discontinuities"
+    },
+    {
+        "video": "0855.mp4",
+        "question": "How is the overall clarity of the video?",
+        "answers": [
+            "The overall clarity is quite low; the athletes appear rather blurry, but their movements can still be distinguished.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The overall clarity is quite low; the athletes appear rather blurry, but their movements can still be distinguished."
+    },
+    {
+        "video": "0000224.mp4",
+        "question": "What feelings does this video create?",
+        "answers": [
+            "The view is wide, relatively comfortable",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The view is wide, relatively comfortable"
+    },
+    {
+        "video": "0698.mp4",
+        "question": "What are the obvious quality issues in this video?",
+        "answers": [
+            "Blurry, shaky camera, out of focus",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurry, shaky camera, out of focus"
+    },
+    {
+        "video": "0091.mp4",
+        "question": "Has this video been edited by frame extraction? Explain the answer and provide analysis.",
+        "answers": [
+            "Yes, this video has undergone frame extraction processing. This conclusion is drawn because the movement of traffic in the video is not continuous from beginning to end. There are evident stutters and abrupt changes in the frames, which indicate that frame extraction has been applied. This processing makes the scenes between adjacent frames discontinuous."
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Yes, this video has undergone frame extraction processing. This conclusion is drawn because the movement of traffic in the video is not continuous from beginning to end. There are evident stutters and abrupt changes in the frames, which indicate that frame extraction has been applied. This processing makes the scenes between adjacent frames discontinuous."
+    },
+    {
+        "video": "3000806.mp4",
+        "question": "What is the zoom mode of this video?",
+        "answers": [
+            "Zoom from far",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Zoom from far"
+    },
+    {
+        "video": "0042.mp4",
+        "question": "What quality issues are present in this video?",
+        "answers": [
+            "Underexposed, blurry",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Underexposed, blurry"
+    },
+    {
+        "video": "00998_06.mp4",
+        "question": "How realistic are the special effects in the video?",
+        "answers": [
+            "Poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor"
+    },
+    {
+        "video": "05663_00.mp4",
+        "question": "Is there noticeable noise in the video?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "0481.mp4",
+        "question": "What is the most serious quality issue in this video?",
+        "answers": [
+            "Block effect artifacts, color distortion",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blocky artifacts, color distortion"
+    },
+    {
+        "video": "WOW-005.mp4",
+        "question": "How is the overall clarity of this game video?",
+        "answers": [
+            "Quite poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite poor"
+    },
+    {
+        "video": "0159.mp4",
+        "question": "What are the quality issues present in this video?",
+        "answers": [
+            "Overexposure, blurriness, camera shake",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Overexposure, blurriness, camera shake"
+    },
+    {
+        "video": "Overwatch-011.mp4",
+        "question": "Is the rendering of the game scenes in this video exquisite?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "0263.mp4",
+        "question": "How to improve the quality issues present in this video?",
+        "answers": [
+            "Choose better filming equipment and use stabilization tools",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Choose better filming equipment and use stabilization tools"
+    },
+    {
+        "video": "06592_03.mp4",
+        "question": "How realistic is the underwater coral reef in the video?",
+        "answers": [
+            "Average",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Average"
+    },
+    {
+        "video": "PUBG-056.mp4",
+        "question": "Does this game video have noticeable compression artifacts?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "2088.mp4",
+        "question": "In the video, what distortions occur when the camera moves while tracking a moving person?",
+        "answers": [
+            "The screen shows slight dropping frames leading to blurry motion and ghosting effects.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The screen shows slight dropping frames leading to blurry motion and ghosting effects."
+    },
+    {
+        "video": "PUBG-067.mp4",
+        "question": "How is the clarity of the game characters in this game video?",
+        "answers": [
+            "Not very good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Not very good"
+    },
+    {
+        "video": "4486.mp4",
+        "question": "How is the overall clarity of this video?",
+        "answers": [
+            "Quite good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Quite good"
+    },
+    {
+        "video": "1007.mp4",
+        "question": "What distortions appear in the video? Please list them.",
+        "answers": [
+            "Low clarity, shaking",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low clarity, shaking"
+    },
+    {
+        "video": "CSGO-002.mp4",
+        "question": "Is the overall clarity of this game video very high?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "0052.mp4",
+        "question": "What obvious distortions are present in the appearance of the band in the video screen?",
+        "answers": [
+            "The band members' faces are overly exposed, creating a stark contrast with the background, making them appear excessively blurred and difficult to discern facial details.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The band members' faces are overly exposed, creating a stark contrast with the background, making them appear excessively blurred and difficult to discern facial details."
+    },
+    {
+        "video": "02854_09.mp4",
+        "question": "How is the realism of the cat in the video?",
+        "answers": [
+            "Quite poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite poor"
+    },
+    {
+        "video": "Onmyoji-008.mp4",
+        "question": "Does this game video have noticeable lag?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "08365_01.mp4",
+        "question": "Are there any complex and difficult-to-understand patterns in the video?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "1047.mp4",
+        "question": "What distortion exists in the video as a whole?",
+        "answers": [
+            "Misfocus, causing the screen to be blurry on the sea and beach",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Misfocus, causing the screen to be blurry on the sea and beach"
+    },
+    {
+        "video": "ForzaHorizon-041.mp4",
+        "question": "Is there a noticeable noise in the darker parts of this game video?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "ApexLegends-012.mp4",
+        "question": "Is there any noticeable noise in this video?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "0002526.mp4",
+        "question": "What are the main distortions in the video?",
+        "answers": [
+            "Blurriness, overexposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurriness, overexposure"
+    },
+    {
+        "video": "4540.mp4",
+        "question": "Is the person on the right side of this video clearer than the person on the left side?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "s000304.mp4",
+        "question": "How is the authenticity of this video?",
+        "answers": [
+            "Relatively high",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Relatively high"
+    },
+    {
+        "video": "CSGO-035.mp4",
+        "question": "Based on the clarity of the characters in this game video, how is the bitrate of this game video?",
+        "answers": [
+            "Very low",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very low"
+    },
+    {
+        "video": "00660_08.mp4",
+        "question": "What is the most unrealistic part in this video?",
+        "answers": [
+            "The person is standing underwater without any equipment.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The person is standing underwater without any equipment."
+    },
+    {
+        "video": "0001.mp4",
+        "question": "The video has very poor watching quality. What are the specific reasons for this?",
+        "answers": [
+            "The video suffers from severe shaking and blurring, and the camera movements are unclear, making it difficult to understand the content being filmed.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The video suffers from severe shaking and blurring, and the camera movements are unclear, making it difficult to understand the content being filmed."
+    },
+    {
+        "video": "LOL-037.mp4",
+        "question": "What is the most impactful distortion of this game's video?",
+        "answers": [
+            "Blurriness",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurriness"
+    },
+    {
+        "video": "2466.mp4",
+        "question": "How is the clarity of the video?",
+        "answers": [
+            "The clarity is quite low, and the children's faces are rather blurry.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The clarity is quite low, and the children's faces are rather blurry."
+    },
+    {
+        "video": "0464.mp4",
+        "question": "What distortions are present in this video? Please provide as comprehensive a list as possible, including the locations where the mistakes occur.",
+        "answers": [
+            "The entire screen has a slight shake, the light source in the background at the top of the screen is too intense, the whole screen has significant blurriness, and there are slight distortions on both the left and right sides of the screen.",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The entire screen has a slight shake, the light source in the background at the top of the screen is too intense, the whole screen has significant blurriness, and there are slight distortions on both the left and right sides of the screen."
+    },
+    {
+        "video": "0157.mp4",
+        "question": "What quality issues are present in this video?",
+        "answers": [
+            "Underexposure, flickering, blurriness",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Underexposure, flickering, blurriness"
+    },
+    {
+        "video": "WOW-008.mp4",
+        "question": "Is the clarity of this game video low?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "2004720.mp4",
+        "question": "How natural does the facial model in this video appear?",
+        "answers": [
+            "Not very natural",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Not very natural"
+    },
+    {
+        "video": "LOL-016.mp4",
+        "question": "How is the clarity of this game video?",
+        "answers": [
+            "Quite good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Quite good"
+    },
+    {
+        "video": "4001268.mp4",
+        "question": "What kind of feeling does this video give people?",
+        "answers": [
+            "Eerie and terrifying",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Eerie and terrifying"
+    },
+    {
+        "video": "00616_05.mp4",
+        "question": "What is the most unrealistic aspect of this video?",
+        "answers": [
+            "The incorrect structure of the bird's wings",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The incorrect structure of the bird's wings"
+    },
+    {
+        "video": "GTA-059.mp4",
+        "question": "How are the lighting conditions in this gameplay video?",
+        "answers": [
+            "Poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor"
+    },
+    {
+        "video": "05412_08.mp4",
+        "question": "What is the most obvious unnatural distortion in this video?",
+        "answers": [
+            "Human hand structural error",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Human hand structural rendering error"
+    },
+    {
+        "video": "00390_09.mp4",
+        "question": "Is there any repetitive and clear pattern in the video?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "4115.mp4",
+        "question": "How is the lighting on the little girl's face in this video?",
+        "answers": [
+            "The lighting is quite strong, there is some overexposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The lighting is quite strong, there is some overexposure"
+    },
+    {
+        "video": "CodeVein-017.mp4",
+        "question": "In this game video, do the movements of the game characters have a certain degree of motion blur?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "1000612.mp4",
+        "question": "What is the main style of this video?",
+        "answers": [
+            "Manga style",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Manga style"
+    },
+    {
+        "video": "StreetFighter-001.mp4",
+        "question": "What is the most significant quality issue affecting the viewing experience of this game video?",
+        "answers": [
+            "Blurred",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurred"
+    },
+    {
+        "video": "ZapHighlight05.mp4",
+        "question": "What are the distortions in this video that mostly influence the viewing experience?",
+        "answers": [
+            "The long buffering time at the beginning and the stuttering in the video",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The long buffering time at the beginning and the stuttering in the video"
+    },
+    {
+        "video": "0406.mp4",
+        "question": "How can the primary quality issues in this video be improved?",
+        "answers": [
+            "Adjust the lighting and choose more appropriate lighting conditions",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Adjust the lighting and choose more appropriate lighting conditions"
+    },
+    {
+        "video": "3455.mp4",
+        "question": "How is the overall lighting condition of the video?",
+        "answers": [
+            "The video lighting condition is good. The overall brightness is soft and appropriate, and the lighting is even. Additionally, the background light source brightness is reasonable.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The video lighting condition is good. The overall brightness is soft and appropriate, and the lighting is even. Additionally, the background light source brightness is reasonable."
+    },
+    {
+        "video": "04104_01.mp4",
+        "question": "Does this video contain any confusing repetitive patterns?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "NBA-004.mp4",
+        "question": "Does the floor in this game video have obvious reflections?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "1474.mp4",
+        "question": "Is the video staff's clarity high?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "00240_05.mp4",
+        "question": "How is the clarity of the clouds in the video?",
+        "answers": [
+            "Rather poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Rather poor"
+    },
+    {
+        "video": "06491_03.mp4",
+        "question": "What is the most prominent distortion in the video?",
+        "answers": [
+            "Error in character structure formation",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Error in character structure formation"
+    },
+    {
+        "video": "1058.mp4",
+        "question": "Are the characters shown in this video all exposed consistently?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "6001725.mp4",
+        "question": "How realistic is this video?",
+        "answers": [
+            "Not very good, the holographic structure is incorrect and there are obvious distortions.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Not very good, the holographic structure is incorrect and there are obvious distortions."
+    },
+    {
+        "video": "3382.mp4",
+        "question": "What is the most likely factor causing this video to be blurry?",
+        "answers": [
+            "Compression",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Compression"
+    },
+    {
+        "video": "09615_08.mp4",
+        "question": "How realistic is the trans-oceanic bridge in the video?",
+        "answers": [
+            "Very unrealistic",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very unrealistic"
+    },
+    {
+        "video": "1055.mp4",
+        "question": "What distortions appeared after the athlete fell in this video?",
+        "answers": [
+            "The camera constantly shakes, and parts of the video are obscured, while the frame quality is relatively blurry.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The screen constantly shakes, and parts of the screen are obscured, while the frame quality is relatively blurry."
+    },
+    {
+        "video": "2933.mp4",
+        "question": "How is the overall clarity of this video?",
+        "answers": [
+            "Quite poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Quite poor"
+    },
+    {
+        "video": "2153.mp4",
+        "question": "How is the quality of the water surface presented in the video? Please provide a detailed description.",
+        "answers": [
+            "The quality of the water surface presented in the video is quite high. Firstly, the clarity of the water is relatively good, and the details of the water surface patterns are well-rendered. Moreover, due to the well-distributed ambient lighting, the water surface presents a uniform gloss, and the reflections on the water enhance the visual appeal.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The quality of the water surface presented in the video is quite high. Firstly, the clarity of the water is relatively good, and the details of the water surface patterns are well-rendered. Moreover, due to the well-distributed ambient lighting, the water surface presents a uniform gloss, and the reflections on the water enhance the visual appeal."
+    },
+    {
+        "video": "0650.mp4",
+        "question": "The quality of the turtle's appearance in this video is relatively low. What improvements in filming methods can be made to enhance its appearance quality? Please analyze.",
+        "answers": [
+            "The turtle appears blurry in this video, which could be due to the filming equipment being excessively zoomed in, severely reducing the clarity. The main method to improve filming quality is to reduce the zoom level during shooting, either pulling the screen further back or adjusting the shooting distance when filming up close to the turtle.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The turtle appears blurry in this video, which could be due to the filming equipment being excessively zoomed in, severely reducing the clarity. The main method to improve filming quality is to reduce the zoom level during shooting, either pulling the screen further back or adjusting the shooting distance when filming up close to the turtle."
+    },
+    {
+        "video": "4492.mp4",
+        "question": "How is the overall clarity of the video?",
+        "answers": [
+            "Extremely high, with high clarity, clear expressions, detailed clothing, and very smooth movements.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Extremely high, with high clarity, clear expressions, detailed clothing, and very smooth movements."
+    },
+    {
+        "video": "0047.mp4",
+        "question": "What distortions exist in the video? Please describe as many as possible.",
+        "answers": [
+            "Blurry content, shaking screen at times, the background light source is too intense causing uneven screen illumination",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blur, shaking screen, at times, the background light source is too intense causing uneven screen illumination"
+    },
+    {
+        "video": "0245.mp4",
+        "question": "What are the two main distortions in this video?",
+        "answers": [
+            "Compression artifacts and screen shake",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Compression artifacts and screen shake"
+    },
+    {
+        "video": "06050_06.mp4",
+        "question": "How is the clarity of the trees on both sides of the road in this video?",
+        "answers": [
+            "Very poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very poor"
+    },
+    {
+        "video": "3631.mp4",
+        "question": "In this video, when the player wearing the jersey with the number 23 appears, what kind of distortion exists on the ground in the video?",
+        "answers": [
+            "Overexposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Overexposure"
+    },
+    {
+        "video": "3920.mp4",
+        "question": "When the camera view switches to capture the whole body of a person, what kind of distortions are present in the video?",
+        "answers": [
+            "The video has low clarity and the person is blurry.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The video has low clarity and the person is blurry."
+    },
+    {
+        "video": "0001497.mp4",
+        "question": "How is the visual quality of the video?",
+        "answers": [
+            "The generated video has relatively low clarity and poor lighting, therefore its quality is quite poor.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The generated video has relatively low clarity and poor lighting, therefore its quality is quite poor."
+    },
+    {
+        "video": "0123.mp4",
+        "question": "What quality issues exist in this video?",
+        "answers": [
+            "Camera shake, out of focus, blurry",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Camera shake, out of focus, blurry"
+    },
+    {
+        "video": "0319.mp4",
+        "question": "What distortions exist in this video?",
+        "answers": [
+            "This video contains persistent severe blurriness and rather intense camera shake, both of which significantly impact the viewer's experience.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "This video contains persistent severe blurriness and rather intense camera shake, both of which significantly impact the viewer's experience."
+    },
+    {
+        "video": "0004035.mp4",
+        "question": "What is the main style of this video?",
+        "answers": [
+            "Cartoon animation style",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Cartoon animation style"
+    },
+    {
+        "video": "4281.mp4",
+        "question": "Why do the sliding snow and the display of snowy landscapes in the video look appealing?",
+        "answers": [
+            "The screen is relatively stable, has high clarity, the color distribution is even, and the graphics have artistic features.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The screen is relatively stable, has high clarity, the color distribution is even, and the graphics have artistic features."
+    },
+    {
+        "video": "4359.mp4",
+        "question": "How does the contrast between light and dark areas in the background at the very beginning of this video segment?",
+        "answers": [
+            "In the opening scene of this video, a black man is tying a necktie for a model. The space behind the man is highly illuminated due to external light sources, which creates a significant contrast in brightness between the man's position and the background. This results in a high degree of light-dark contrast in this scene.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "In the opening scene of this video, a black man is tying a necktie for a model. The space behind the man is highly illuminated due to external light sources, which creates a significant contrast in brightness between the man's position and the background. This results in a high degree of light-dark contrast in this scene."
+    },
+    {
+        "video": "2100.mp4",
+        "question": "What is causing the obstruction in the upper left corner of the view in this video?",
+        "answers": [
+            "The obstruction is caused by the photographer's hand partially covering the lens",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The obstruction is caused by the photographer's hand partially covering the lens"
+    },
+    {
+        "video": "2001797.mp4",
+        "question": "What is the style of this video?",
+        "answers": [
+            "Cartoon anime style",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Cartoon anime style"
+    },
+    {
+        "video": "0201.mp4",
+        "question": "What distortions are present in the video?",
+        "answers": [
+            "Low clarity, detailed features of the man in white clothes are lost, and the surrounding environment is blurry; the child's movement is not smooth and is heavily affected by motion blur.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Low clarity, detailed features of the man in white clothes are lost, and the surrounding environment is blurry; the child's movement is not smooth and is heavily affected by motion blur."
+    },
+    {
+        "video": "s000814.mp4",
+        "question": "How does the clarity of the animal's limbs change in this video?",
+        "answers": [
+            "From high to low",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "From high to low"
+    },
+    {
+        "video": "RocketLeague-007.mp4",
+        "question": "How is the quality of the game's video stream?",
+        "answers": [
+            "Not good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Not good"
+    },
+    {
+        "video": "Pokemon-012.mp4",
+        "question": "Is the game character in this video poorly modeled but highly detailed?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "s000383.mp4",
+        "question": "What is the main style of this video?",
+        "answers": [
+            "Sci-fi fantasy style",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Sci-fi fantasy style"
+    },
+    {
+        "video": "DarkSouls-055.mp4",
+        "question": "How are the colors in this game video?",
+        "answers": [
+            "Somewhat dark and dull",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Somewhat dark and dull"
+    },
+    {
+        "video": "Pokemon-005.mp4",
+        "question": "What kind of atmosphere does this game video give people?",
+        "answers": [
+            "Mysterious and intriguing",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Mysterious and intriguing"
+    },
+    {
+        "video": "4471.mp4",
+        "question": "Does the fireworks captured in this video have a high level of clarity?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "0835.mp4",
+        "question": "Is the intense hail the main reason for the blurriness of this video?",
+        "answers": [
+            "No, it should be the low clarity of the recording equipment.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No, it should be the low clarity of the recording equipment."
+    },
+    {
+        "video": "0182.mp4",
+        "question": "Please evaluate the playback smoothness of the main character's movements and the quality of the video presentation for this segment from a sports video.",
+        "answers": [
+            "The playback of the character's movements is overall smooth, without noticeable stuttering. However, the video quality is very poor, as the entire segment exhibits severe blurriness, making the character barely recognizable.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The playback of the character's movements is overall smooth, without noticeable stuttering. However, the video quality is very poor, as the entire segment exhibits severe blurriness, making the character barely recognizable."
+    },
+    {
+        "video": "0001747.mp4",
+        "question": "What is the most illogical part of this video?",
+        "answers": [
+            "The height ratio of different characters is severely mismatched",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The height ratio of different characters is severely mismatched"
+    },
+    {
+        "video": "FIFA-001.mp4",
+        "question": "What kind of weather effects are in this game video?",
+        "answers": [
+            "Fog",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Fog"
+    },
+    {
+        "video": "09842_07.mp4",
+        "question": "What is the most unrealistic part of this video?",
+        "answers": [
+            "The green beach",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The green beach"
+    },
+    {
+        "video": "3341.mp4",
+        "question": "How would you rate the overall quality of this video?",
+        "answers": [
+            "The alternating camera angles added an artistic touch. The overall color distribution is quite balanced, but the frame is somewhat blurry and there is slight shaking.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The alternating camera angles added an artistic touch. The overall color distribution is quite balanced, but the frame is somewhat blurry and there is slight shaking."
+    },
+    {
+        "video": "Fortnite-021.mp4",
+        "question": "How are the textures in the scenes of this game video?",
+        "answers": [
+            "They are relatively coarse and not detailed.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "They are relatively coarse and not detailed."
+    },
+    {
+        "video": "05112_07.mp4",
+        "question": "How realistic are the underwater scenes with divers in the video?",
+        "answers": [
+            "Not realistic at all",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Not realistic at all"
+    },
+    {
+        "video": "0287.mp4",
+        "question": "What visual artifacts in this video affect the viewing experience? Please list as many as possible.",
+        "answers": [
+            "The screen is severely blurry, and there are significant blocky artifacts. Additionally, the boy's basketball movements are choppy and not smooth.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The screen is severely blurry, and there are significant blocky artifacts. Additionally, the boy's basketball movements are choppy and not smooth."
+    },
+    {
+        "video": "4015.mp4",
+        "question": "What is the reason for the high visual quality of this video segment?",
+        "answers": [
+            "The video has high clarity, smooth and clear movements, colors that highlight the main subject, and a stable screen without shaking.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The video has high clarity, smooth and clear movements, colors that highlight the main subject, and a stable screen without shaking."
+    },
+    {
+        "video": "00445_08.mp4",
+        "question": "How clear are the reflections of trees on the lake surface in the video?",
+        "answers": [
+            "Not very clear",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Not very clear"
+    },
+    {
+        "video": "4265.mp4",
+        "question": "Why is the visual quality of this video relatively high?",
+        "answers": [
+            "The screen is relatively clear, the movements of the characters are smooth, the lighting and colors are even, and the screen is stable without shaking",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The screen is relatively clear, the movements of the characters are smooth, the lighting and colors are even, and the screen is stable without shaking"
+    },
+    {
+        "video": "00353_03.mp4",
+        "question": "How authentic is this video?",
+        "answers": [
+            "Quite good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Quite good"
+    },
+    {
+        "video": "0183.mp4",
+        "question": "How is the overall quality of the video?",
+        "answers": [
+            "The clarity is low, the frame is blurry, there is a noticeable drop in frames, and the movement of the man in white is choppy and shadowed.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The clarity is low, the frame is blurry, there is a noticeable drop in frames, and the movement of the man in white is choppy and shadowed."
+    },
+    {
+        "video": "4351.mp4",
+        "question": "How is the exposure of the characters in this video?",
+        "answers": [
+            "Poor, some parts are underexposed",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor, some parts are underexposed"
+    },
+    {
+        "video": "0841.mp4",
+        "question": "How is the clarity of the lalateam members in this video?",
+        "answers": [
+            "Very poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very poor"
+    },
+    {
+        "video": "0650.mp4",
+        "question": "Some viewers cannot accurately identify the living organism and its actions in the initial stage of the video playback (in fact, it is an ant biting the head of a wooden stick). What is the reason for this phenomenon?",
+        "answers": [
+            "The video as a whole is extremely blurry, which reduces the recognition of all objects in the video. At the same time, the ant's color is highly similar to the background, which increases the difficulty of quick judgment.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The video as a whole is extremely blurry, which reduces the recognition of all objects in the video. At the same time, the ant's color is highly similar to the background, which increases the difficulty of quick judgment."
+    },
+    {
+        "video": "0017.mp4",
+        "question": "How would you rate the overall quality of this video?",
+        "answers": [
+            "The overall quality is poor. The clarity is relatively low, and the transition of the opening scene creates a rather poor visual experience. The brightness is quite dim.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The overall quality is poor. The clarity is relatively low, and the transition of the opening scene creates a rather poor visual experience. The brightness is quite dim."
+    },
+    {
+        "video": "3597.mp4",
+        "question": "How is the overall visual quality of the process of sharpening a pencil in this video?",
+        "answers": [
+            "The overall quality is relatively good. Firstly, the entire process plays very smoothly and stably, without obvious stuttering or screen shaking. Additionally, the screen clarity is relatively high, with reasonable and uniform lighting."
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The overall quality is relatively good. Firstly, the entire process plays very smoothly and stably, without obvious stuttering or screen shaking. Additionally, the screen clarity is relatively high, with reasonable and uniform lighting."
+    },
+    {
+        "video": "2005330.mp4",
+        "question": "What caused the light reflection waves in this video?",
+        "answers": [
+            "Caused by water waves",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Caused by water waves"
+    },
+    {
+        "video": "1063.mp4",
+        "question": "What distortions led to the degradation of the video quality?",
+        "answers": [
+            "The screen is relatively blurry, the brightness is low, and there are noticeable tremors.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The screen is relatively blurry, the brightness is low, and there are noticeable tremors."
+    },
+    {
+        "video": "0853.mp4",
+        "question": "What is the main quality issue with this video?",
+        "answers": [
+            "Low brightness",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low brightness"
+    },
+    {
+        "video": "0236.mp4",
+        "question": "What distortions exist in this video?",
+        "answers": [
+            "Blurriness, noise, underexposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurriness, noise, underexposure"
+    },
+    {
+        "video": "0248.mp4",
+        "question": "What are the two main distortion issues in this video?",
+        "answers": [
+            "Severe screen shaking and screen blurriness",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Severe screen shaking and screen blurriness"
+    },
+    {
+        "video": "3130.mp4",
+        "question": "Is there noise present in the video?",
+        "answers": [
+            "Yes, there is widespread and severe noise present in the video screen, which seriously affects the viewing experience of this video.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Yes, there is widespread and severe noise present in the video screen, which seriously affects the viewing experience of this video."
+    },
+    {
+        "video": "0573.mp4",
+        "question": "What are the quality factors contributing to the poor watching experience of this video?",
+        "answers": [
+            "The camera shake in this video is very severe. Additionally, it fails to fully capture the people appearing in the shot.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The camera shake in this video is very severe. Additionally, it fails to fully capture the people appearing in the shot."
+    },
+    {
+        "video": "0007.mp4",
+        "question": "What are the quality issues present in this video?",
+        "answers": [
+            "Underexposure, blurriness, artifacts",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Underexposure, blurriness, artifacts"
+    },
+    {
+        "video": "1592.mp4",
+        "question": "What is the most obvious distortion on the sofa in this video?",
+        "answers": [
+            "Noise",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Noise"
+    },
+    {
+        "video": "4538.mp4",
+        "question": "This video is considered high in overall quality. Please provide a brief analysis.",
+        "answers": [
+            "This video is of high overall quality. Firstly, the lighting throughout the video is consistent and appropriate, and the details of objects in the scene are fully displayed. The video is also very clear, the frame is stable, and there are no obvious shakiness or frame drops.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "This video is of high overall quality. Firstly, the lighting throughout the video is consistent and appropriate, and the details of objects in the scene are fully displayed. The video is also very clear, the frame is stable, and there are no obvious shakiness or frame drops."
+    },
+    {
+        "video": "0185.mp4",
+        "question": "What distortions mainly appear in the video? Please list them.",
+        "answers": [
+            "Low clarity, shaky screen, lagging",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low clarity, shaky screen, lagging"
+    },
+    {
+        "video": "2000157.mp4",
+        "question": "Is the mechanical structure in this video normal and reasonable?",
+        "answers": [
+            "No, there are obvious inconsistencies and unnaturalness.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No, there are obvious inconsistencies and inaccuracies."
+    },
+    {
+        "video": "0083.mp4",
+        "question": "This is a video with very poor quality. What are the main distortions in the video?",
+        "answers": [
+            "Severe video shaking and severe screen blurriness",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Severe video shaking and severe screen blurriness"
+    },
+    {
+        "video": "0051.mp4",
+        "question": "What inconsistencies appear in the video? Please list them.",
+        "answers": [
+            "The screen is shaking and blurry",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The screen is shaking and blurry"
+    },
+    {
+        "video": "4255.mp4",
+        "question": "The back of the human body in the video is considered to have low aesthetic value. Please analyze the reasons?",
+        "answers": [
+            "The overall tone of the video is relatively yellowish, and it excessively retains imperfections such as blemishes on the subject's back, resulting in discomfort for the viewers and thus lowering the aesthetic appreciation value of the video.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The overall tone of the video is relatively yellowish, and it excessively retains imperfections such as blemishes on the subject's back, resulting in discomfort for the viewers and thus lowering the aesthetic appreciation value of the video."
+    },
+    {
+        "video": "0010.mp4",
+        "question": "What are the main distortions in the video?",
+        "answers": [
+            "The clarity is low, the screen is very blurry, the exposure is rather dark, making it impossible to distinguish the instrument panel.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The clarity is low, the screen is very blurry, the exposure is rather dark, making it impossible to distinguish the instrument panel."
+    },
+    {
+        "video": "2006931.mp4",
+        "question": "What is the style of this video?",
+        "answers": [
+            "Cartoon animation style",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Cartoon animation style"
+    },
+    {
+        "video": "0101.mp4",
+        "question": "The man's actions in the first half of this video are not very clear. What is the reason for this?",
+        "answers": [
+            "In the first half of the video, the man is wearing dark clothing and is under a roof in a shaded area with no direct light. This results in very limited light reflecting off of him, making his movements appear overall very dim and difficult to distinguish.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "In the first half of the video, the man is wearing dark clothing and is under a roof in a shaded area with no direct light. This results in very limited light reflecting off of him, making his movements appear overall very dim and difficult to distinguish."
+    },
+    {
+        "video": "00190_07.mp4",
+        "question": "How is the noise level of the person in the video?",
+        "answers": [
+            "Very serious",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very serious"
+    },
+    {
+        "video": "4384.mp4",
+        "question": "What is the main cause of the blurred background in this video?",
+        "answers": [
+            "It is caused by steam condensing into fog.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "It is caused by steam condensing into fog."
+    },
+    {
+        "video": "0384.mp4",
+        "question": "What are the main quality issues with the video that affect the viewer's experience?",
+        "answers": [
+            "Low brightness, blurry",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low brightness, blurry"
+    },
+    {
+        "video": "0121.mp4",
+        "question": "What are the main quality issues appearing in the video?",
+        "answers": [
+            "The video shows severe camera shake, causing flickering issues.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The video shows severe camera shake, causing flickering issues."
+    },
+    {
+        "video": "Minecraft-036.mp4",
+        "question": "How is the rendering quality of the game models in this game video?",
+        "answers": [
+            "Quite low",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite low"
+    },
+    {
+        "video": "1001060.mp4",
+        "question": "What is the most prominent color in this video?",
+        "answers": [
+            "Red",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Red"
+    },
+    {
+        "video": "4001464.mp4",
+        "question": "What obvious quality issues does this video have?",
+        "answers": [
+            "Incorrect facial structure, overexposed background",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Incorrect facial structure, overexposed background"
+    },
+    {
+        "video": "4275.mp4",
+        "question": "What kind of feeling does this video mainly bring to people?",
+        "answers": [
+            "Amusing, interesting",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Amusing, interesting"
+    },
+    {
+        "video": "01119_06.mp4",
+        "question": "What is the most obvious distortion in the video?",
+        "answers": [
+            "Incorrect human face and hand structure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Incorrect human face and hand structure"
+    },
+    {
+        "video": "StreetFighter-006.mp4",
+        "question": "Are the special effects in this game video impressive but not very detailed?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "01492_01.mp4",
+        "question": "Do the eagle and the background in the video blend well?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "s000219.mp4",
+        "question": "What is noticeably unnatural about the person holding the camera in the video?",
+        "answers": [
+            "The person has six fingers on their right hand.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The person has six fingers on their right hand."
+    },
+    {
+        "video": "0732.mp4",
+        "question": "What specific quality issues are present in this video?",
+        "answers": [
+            "Underexposed, blurry, camera shaking",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Underexposed, blurry, camera shaking"
+    },
+    {
+        "video": "s000812.mp4",
+        "question": "How clear is the snowman toy in this video?",
+        "answers": [
+            "Quite clear",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite clear"
+    },
+    {
+        "video": "4030.mp4",
+        "question": "How is the overall clarity of this video?",
+        "answers": [
+            "Pretty good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Pretty good"
+    },
+    {
+        "video": "4342.mp4",
+        "question": "Briefly evaluate the overall quality of this video.",
+        "answers": [
+            "The overall quality of this video is relatively good. Firstly, the two characters appearing in the video are consistently very clear, with details that are discernible. At the same time, the whole video has a high level of saturation and warm tones, which further enhances the viewing experience. Although some areas of the video screen are overexposed, it still does not affect the overall presentation quality.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The overall quality of this video is relatively good. Firstly, the two characters appearing in the video are consistently very clear, with details that are discernible. At the same time, the whole video has a high level of saturation and warm tones, which further enhances the viewing experience. Although some areas of the video screen are overexposed, it still does not affect the overall presentation quality."
+    },
+    {
+        "video": "GTA-011.mp4",
+        "question": "Does this game video have a high level of clarity?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "3399.mp4",
+        "question": "How is the clarity of the characters demonstrated in this video?",
+        "answers": [
+            "Poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor"
+    },
+    {
+        "video": "0106.mp4",
+        "question": "What is the most obvious quality issue with this video?",
+        "answers": [
+            "Low clarity, underexposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low clarity, underexposure"
+    },
+    {
+        "video": "8000513.mp4",
+        "question": "What quality issues exist in this video?",
+        "answers": [
+            "Blurriness, incorrect structure of the grid, incorrect structure of the tiger, incorrect physical relationship between the tiger and the grid",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurriness, incorrect structure of the grid, incorrect structure of the tiger, incorrect physical relationship between the tiger and the grid"
+    },
+    {
+        "video": "08057_08.mp4",
+        "question": "How realistic are the tourists on the beach in the video?",
+        "answers": [
+            "Not very realistic",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Not very realistic"
+    },
+    {
+        "video": "4303.mp4",
+        "question": "How is the focus on the characters in this video?",
+        "answers": [
+            "Quite good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite good"
+    },
+    {
+        "video": "ZapHighlight09.mp4",
+        "question": "What is the quality issue that most affects the quality of viewing this video?",
+        "answers": [
+            "Frequent buffering",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Frequent buffering"
+    },
+    {
+        "video": "7001667.mp4",
+        "question": "What are the distortions in this video?",
+        "answers": [
+            "The diagrams are messy and blurry",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The diagrams are messy and blurry"
+    },
+    {
+        "video": "4271.mp4",
+        "question": "Does this video have any serious quality issues affecting viewing experience?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "NBA-011.mp4",
+        "question": "How is the clarity of the basketball player in this game video?",
+        "answers": [
+            "Poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor"
+    },
+    {
+        "video": "2002034.mp4",
+        "question": "What is the most obvious unnatural distoriton of this video?",
+        "answers": [
+            "A lot of repetitive and meaningless patterns",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "A lot of repetitive and meaningless patterns"
+    },
+    {
+        "video": "StreetFighter-007.mp4",
+        "question": "What is the primary source of the impact feeling in this game video?",
+        "answers": [
+            "The hit stop when striking characters",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The hit stop when striking characters"
+    },
+    {
+        "video": "4134.mp4",
+        "question": "How is the overall clarity of this video?",
+        "answers": [
+            "Average",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Average"
+    },
+    {
+        "video": "0153.mp4",
+        "question": "How does the lighting in the first half of this video compare to the lighting in the second half?",
+        "answers": [
+            "Stronger",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Stronger"
+    },
+    {
+        "video": "TearsOfSteel201.mp4",
+        "question": "Besides the initial buffering, how many times does this video stutter in total?",
+        "answers": [
+            "4",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "4"
+    },
+    {
+        "video": "6000559.mp4",
+        "question": "How is the visual quality of this video?",
+        "answers": [
+            "The content is meaningless, the clarity is low, and the quality of this video is particularly poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The content is meaningless, the clarity is low, and the quality of this video is particularly poor"
+    },
+    {
+        "video": "1896.mp4",
+        "question": "In the video, after the little boy shows a surprised expression, what issues exist with the video quality?",
+        "answers": [
+            "The camera shakes violently",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The camera shakes violently"
+    },
+    {
+        "video": "2598.mp4",
+        "question": "How is the brightness contrast in this video, considering the scene variations over time?",
+        "answers": [
+            "In the first half of the video, the two transporters are in an area where sunlight cannot directly shine, resulting in uniform brightness and hence a lower brightness contrast. In the latter half, the two transporters move to an area where sunlight can directly shine (the right side of the screen), making the right side brighter than the left side. Therefore, the brightness contrast in the video significantly increases.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "In the first half of the video, the two transporters are in an area where sunlight cannot directly shine, resulting in uniform brightness and hence a lower brightness contrast. In the latter half, the two transporters move to an area where sunlight can directly shine (the right side of the screen), making the right side brighter than the left side. Therefore, the brightness contrast in the video significantly increases."
+    },
+    {
+        "video": "4065.mp4",
+        "question": "Can the clarity of the guitarist's hands in this video support identifying the fingering techniques?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "GenshinImpact-004.mp4",
+        "question": "How is the rendering quality of the game characters in this game video?",
+        "answers": [
+            "Very high",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very high"
+    },
+    {
+        "video": "4073.mp4",
+        "question": "How is the overall quality of the presentation of the masseur and the person being massaged in this video? Please provide a brief analysis.",
+        "answers": [
+            "The presentation quality of both the masseur and the person being massaged in this video is relatively high. You can clearly see the detailed textures on the masseur's hands as well as the fine details of the acupuncture points on the back of the person being massaged.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The presentation quality of both the masseur and the person being massaged in this video is relatively high. You can clearly see the detailed textures on the masseur's hands as well as the fine details of the acupuncture points on the back of the person being massaged."
+    },
+    {
+        "video": "0001882.mp4",
+        "question": "Is the movement of the fox on the right side in this video smooth and continuous?",
+        "answers": [
+            "No, there is a noticeable sudden head turn",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No, there is a noticeable sudden head turn"
+    },
+    {
+        "video": "Minecraft-095.mp4",
+        "question": "What style is this game video?",
+        "answers": [
+            "Pixel art style",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Pixel art style"
+    },
+    {
+        "video": "0026.mp4",
+        "question": "What distortions appear in the video? Please enumerate.",
+        "answers": [
+            "Low clarity, screen shaking, character movement stuttering",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low clarity, screen shaking, character movement stuttering"
+    },
+    {
+        "video": "08211_06.mp4",
+        "question": "How is the clarity of the buildings in the video?",
+        "answers": [
+            "Very poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very poor"
+    },
+    {
+        "video": "2309.mp4",
+        "question": "What kind of post-processing methods can improve the visual quality of this video?",
+        "answers": [
+            "To enhance the presentation quality of this video, you first need to perform denoising (super-resolution) operations to improve the clarity of the video, thus solving the main blurring issues in the video. Simultaneously, some stabilization operations and image enhancement techniques (such as light reinforcement and rendering) are necessary.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "To enhance the presentation quality of this video, you first need to perform denoising (super-resolution) operations to improve the clarity of the video, thus solving the main blurring issues in the video. Simultaneously, some stabilization operations and image enhancement techniques (such as light reinforcement and rendering) are necessary."
+    },
+    {
+        "video": "0000937.mp4",
+        "question": "Is the unicorn in this video harmoniously integrated with the background?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "1497.mp4",
+        "question": "In the first half of the video, does the female musician's face experience any overexposure? Please describe the reason.",
+        "answers": [
+            "Yes, the female musician's face experienced partial overexposure. This is because several light sources in the background are too bright, causing excessive illumination. The strong contrast with the surrounding environment and the low color saturation of the video led to uneven lighting on the musician's face, resulting in overexposure.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes, the female musician's face experienced partial overexposure. This is because several light sources in the background are too bright, causing excessive illumination. The strong contrast with the surrounding environment and the low color saturation of the video led to uneven lighting on the musician's face, resulting in overexposure."
+    },
+    {
+        "video": "0048.mp4",
+        "question": "What is the most affecting quality issue of this video?",
+        "answers": [
+            "The lack of exposure caused by low brightness",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The lack of exposure caused by low brightness"
+    },
+    {
+        "video": "CodeVein-015.mp4",
+        "question": "What is the main source of the feeling of impact in the combat actions in this game video?",
+        "answers": [
+            "The camera shake when hitting",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The camera shake when hitting"
+    },
+    {
+        "video": "5000157.mp4",
+        "question": "What is the main style of this video?",
+        "answers": [
+            "Animation style",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Animation style"
+    },
+    {
+        "video": "s000618.mp4",
+        "question": "How does the layout of this video make people feel?",
+        "answers": [
+            "Relatively open",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Relatively open"
+    },
+    {
+        "video": "3758.mp4",
+        "question": "How is the overall visual quality of the video?",
+        "answers": [
+            "The video is clear, reflecting the surrounding environment and characteristics of the lake water, the movements are smooth, and it displays excellent fishing actions.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The video is clear, reflecting the surrounding environment and characteristics of the lake water, the movements are smooth, and it displays excellent fishing actions."
+    },
+    {
+        "video": "00784_01.mp4",
+        "question": "How realistic is the flower in the video?",
+        "answers": [
+            "Average",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Average"
+    },
+    {
+        "video": "0460.mp4",
+        "question": "What issues are present in terms of playback fluidity and visual quality for this video? Please elaborate.",
+        "answers": [
+            "In terms of playback fluidity, the video clearly has a slightly low frame rate or has undergone frame extraction processing, resulting in noticeable discontinuity in the character's movements. Regarding visual quality, the video exhibits rather severe blurriness, with overall clarity being low.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "In terms of playback fluidity, the video clearly has a slightly low frame rate or has undergone frame extraction processing, resulting in noticeable discontinuity in the character's movements. Regarding visual quality, the video exhibits rather severe blurriness, with overall clarity being low."
+    },
+    {
+        "video": "1426.mp4",
+        "question": "How is the visual quality of this scene, please provide a brief analysis",
+        "answers": [
+            "The composition quality of this video scene is rather poor. The camera primarily focuses on the ground, while the main subjects, the jockey and the horse, are not prominently featured in the frame.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The composition quality of this video scene is rather poor. The camera primarily focuses on the ground, while the main subjects, the jockey and the horse, are not prominently featured in the frame."
+    },
+    {
+        "video": "Ski25.mp4",
+        "question": "When is the longest buffering time encountered in this video?",
+        "answers": [
+            "The second time",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The second time"
+    },
+    {
+        "video": "0079.mp4",
+        "question": "What is the most obvious distortion of the crowd in this video?",
+        "answers": [
+            "Lack of exposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Lack of exposure"
+    },
+    {
+        "video": "1972.mp4",
+        "question": "What are the distortions present in this video?",
+        "answers": [
+            "Low light, blur, noise",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low light, blur, noise"
+    },
+    {
+        "video": "4496.mp4",
+        "question": "How is the quality of the starry sky in this video? Please analyze from the perspectives of aesthetic value and video frame quality.",
+        "answers": [
+            "From an artistic value perspective, the presentation of the starry sky in this video possesses relatively high artistic value. The intricate design, combined with the flowing starry sky and the exquisite ancient architecture below, makes it quite romantic, thereby generating higher aesthetic value. However, in terms of video frame quality, the clarity of the starry sky is not high, resulting in average frame quality.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "From an artistic value perspective, the presentation of the starry sky in this video possesses relatively high artistic value. The intricate design, combined with the flowing starry sky and the exquisite ancient architecture below, makes it quite romantic, thereby generating higher aesthetic value. However, in terms of video frame quality, the clarity of the starry sky is not high, resulting in average frame quality."
+    },
+    {
+        "video": "6002443.mp4",
+        "question": "How realistic is the sun in this video?",
+        "answers": [
+            "Not very, the rays of light it emits look quite fake",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Not very, the rays of light it emits look quite fake"
+    },
+    {
+        "video": "0023.mp4",
+        "question": "How is the quality of this video? Please provide a brief analysis.",
+        "answers": [
+            "The quality of this video is very poor. The main reason is that it has obviously been over-compressed, resulting in severe compression artifacts and blockiness. Additionally, the movements of characters in the video are not smooth and there are noticeable lags.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The quality of this video is very poor. The main reason is that it has obviously been over-compressed, resulting in severe compression artifacts and blockiness. Additionally, the movements of characters in the video are not smooth and there are noticeable lags."
+    },
+    {
+        "video": "0089.mp4",
+        "question": "From a visual perspective, would you consider this video to be of good quality?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "2000059.mp4",
+        "question": "What is the least realistic part in this video?",
+        "answers": [
+            "The structure and posture of the woman's hand holding the steering wheel while driving",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The structure and posture of the woman's hand holding the steering wheel while driving"
+    },
+    {
+        "video": "CSGO-026.mp4",
+        "question": "How is the clarity of the gun models in this game?",
+        "answers": [
+            "Poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Poor"
+    },
+    {
+        "video": "3757.mp4",
+        "question": "What are the obvious quality issues in this video?",
+        "answers": [
+            "Blurry, camera shaking, uneven lighting",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurry, camera shaking, uneven lighting"
+    },
+    {
+        "video": "01890_09.mp4",
+        "question": "How realistic is the dog in the video?",
+        "answers": [
+            "Pretty good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Pretty good"
+    },
+    {
+        "video": "3018.mp4",
+        "question": "What is the specific camera movement in this video?",
+        "answers": [
+            "Slowly zooms in close-up, then cuts to wide shot.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Slowly zooms in close-up, then cuts to wide shot."
+    },
+    {
+        "video": "2774.mp4",
+        "question": "Is the clarity of the player catching the ball in this video high?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "3187.mp4",
+        "question": "How is the lighting in this video?",
+        "answers": [
+            "Pretty good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Pretty good"
+    },
+    {
+        "video": "0000.mp4",
+        "question": "What types of distortions are present in the video?",
+        "answers": [
+            "The screen is too dark (completely black)",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The screen is too dark (completely black)"
+    },
+    {
+        "video": "3195.mp4",
+        "question": "What kind of distortion occurs in the video when the group of athletes starts moving?",
+        "answers": [
+            "The screen becomes blurry, and it shakes.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The screen becomes blurry, and it shakes."
+    },
+    {
+        "video": "1401.mp4",
+        "question": "What distortions cause the low visual quality of this video segment?",
+        "answers": [
+            "The frame quality is blurry, and the screen shakes. The brightness is quite low, the lighting is uneven, and the details in dark areas are severely lost.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The frame quality is blurry, and the screen shakes. The brightness is quite low, the lighting is uneven, and the details in dark areas are severely lost."
+    },
+    {
+        "video": "6000517.mp4",
+        "question": "What quality issues are present in this video?",
+        "answers": [
+            "Blurry, unnatural cooking actions, unnatural food interactions",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurry, unnatural cooking actions, unnatural food interactions"
+    },
+    {
+        "video": "01604_01.mp4",
+        "question": "Is the content in the video easy to understand?",
+        "answers": [
+            "No",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "1038.mp4",
+        "question": "What quality issues exist in this video?",
+        "answers": [
+            "Blurry, shaky camera",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurry, shaky cam"
+    },
+    {
+        "video": "1190.mp4",
+        "question": "What is the main quality issue with this video?",
+        "answers": [
+            "Blurry, chaotic content",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurry, chaotic content"
+    },
+    {
+        "video": "Fallout-074.mp4",
+        "question": "What are the factors that lead to the exposure quality issues in this game environment?",
+        "answers": [
+            "The distribution of light sources",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The distribution of light sources"
+    },
+    {
+        "video": "AnimalCrossing-007.mp4",
+        "question": "What kind of feeling do the style and graphics of this game video evoke?",
+        "answers": [
+            "Relaxed and cute animation",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Relaxed and cute animation"
+    },
+    {
+        "video": "0286.mp4",
+        "question": "What is the lighting condition on the boy's face in the video? Please provide a brief analysis.",
+        "answers": [
+            "In the video, the boy is facing away from the car window, and it is overcast outside. The intensity of the light is relatively weak, so the lighting on his face is generally weak and uneven, making his face appear mostly dark.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "In the video, the boy is facing away from the car window, and it is overcast outside. The intensity of the light is relatively weak, so the lighting on his face is generally weak and uneven, making his face appear mostly dark."
+    },
+    {
+        "video": "Minecraft-099.mp4",
+        "question": "What is the art style of the game in this video?",
+        "answers": [
+            "Pixel art",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Pixel art"
+    },
+    {
+        "video": "07151_09.mp4",
+        "question": "How realistic is the mountain road in the video?",
+        "answers": [
+            "Quite poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite poor"
+    },
+    {
+        "video": "1852.mp4",
+        "question": "What is the most impactful quality issue in this video?",
+        "answers": [
+            "Blurry",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurry"
+    },
+    {
+        "video": "1733.mp4",
+        "question": "How is the visual quality of the dog appearing in this video, please provide a brief analysis.",
+        "answers": [
+            "The quality of the dog appearing in this video is quite poor. Firstly, the intensity of the light projected onto the dog's body in the video is relatively low, resulting in difficulty distinguishing the fine details of the dog's body texture. Additionally, due to the overall low clarity of the video, it is challenging to identify the fine details of the dog."
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The quality of the dog appearing in this video is quite poor. Firstly, the intensity of the light projected onto the dog's body in the video is relatively low, resulting in difficulty distinguishing the fine details of the dog's body texture. Additionally, due to the overall low clarity of the video, it is challenging to identify the fine details of the dog."
+    },
+    {
+        "video": "4427.mp4",
+        "question": "How is the hair texture of the main character depicted in this video?",
+        "answers": [
+            "Very clear",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very clear"
+    },
+    {
+        "video": "08017_00.mp4",
+        "question": "What is the level of lighting intensity in the video?",
+        "answers": [
+            "Relatively strong",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Relatively strong"
+    },
+    {
+        "video": "0138.mp4",
+        "question": "What issues are present in the panning of this video?",
+        "answers": [
+            "The panning speed in this video is too fast, leading to frequent focus loss of the camera, which causes a lot of motion blur throughout the video. Additionally, the panning direction is irregular, resulting in severe camera shake. These factors all contribute to a decrease in the filming quality.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The panning speed in this video is too fast, leading to frequent focus loss of the camera, which causes a lot of motion blur throughout the video. Additionally, the panning direction is irregular, resulting in severe camera shake. These factors all contribute to a decrease in the filming quality."
+    },
+    {
+        "video": "s000087.mp4",
+        "question": "During the process of fast panning, is the clarity of the video still acceptable?",
+        "answers": [
+            "No, it remains blurry",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "No, it remains blurry"
+    },
+    {
+        "video": "s000493.mp4",
+        "question": "Is this video very creative?",
+        "answers": [
+            "Yes, it showcases marine life in urban settings",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Yes, it showcases marine life in urban settings"
+    },
+    {
+        "video": "s000090.mp4",
+        "question": "What is the main camera movement in this video?",
+        "answers": [
+            "Fast zoom out",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Fast zoom out"
+    },
+    {
+        "video": "0872.mp4",
+        "question": "What is the main reason for the low clarity of the child in this video?",
+        "answers": [
+            "The motion blur from the child moving and the interference from the net between them and the camera affect the clarity.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The motion blur from the child moving and the interference from the net between them and the camera affect the clarity."
+    },
+    {
+        "video": "4001721.mp4",
+        "question": "What is the most significant quality issue in this generated video?",
+        "answers": [
+            "The content generated has no meaning",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The content generated has no meaning"
+    },
+    {
+        "video": "Sekiro-005.mp4",
+        "question": "Is the movement of the characters in this game video smooth?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Yes"
+    },
+    {
+        "video": "3588.mp4",
+        "question": "How is the visual quality of the right side female's face in the video? Please provide a brief analysis.",
+        "answers": [
+            "The quality is mediocre. Although it is clear enough to identify, the noise and slight blurriness in the video severely reduce the quality of the face's appearance.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The quality is mediocre. Although it is clear enough to identify, the noise and slight blurriness in the video severely reduce the quality of the face's appearance."
+    },
+    {
+        "video": "0004301.mp4",
+        "question": "What is the primary style of this video?",
+        "answers": [
+            "Sci-fi",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Sci-fi"
+    },
+    {
+        "video": "0146.mp4",
+        "question": "What is the main reason that the main character's face cannot be accurately identified in the video?",
+        "answers": [
+            "The lighting on the person's face is very low, making the face very dark and unrecognizable.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The lighting on the person's face is very low, making the face very dark and unrecognizable."
+    },
+    {
+        "video": "0009.mp4",
+        "question": "What are the main distortions present in this video?",
+        "answers": [
+            "Extreme low lighting and video shaking.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Extreme low lighting and video shaking."
+    },
+    {
+        "video": "0254.mp4",
+        "question": "Please describe the factors in this video that contribute to a poor viewer experience",
+        "answers": [
+            "This video primarily suffers from intense camera shaking, leading to drastic and irregular changes in the onscreen content, making it difficult for viewers to focus on the video. Additionally, the overall frame is blurry, and the playback quality is poor.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "This video primarily suffers from intense camera shaking, leading to drastic and irregular changes in the onscreen content, making it difficult for viewers to focus on the video. Additionally, the overall frame is blurry, and the playback quality is poor."
+    },
+    {
+        "video": "09255_06.mp4",
+        "question": "How is the authenticity of the road in the video?",
+        "answers": [
+            "Very poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Very poor"
+    },
+    {
+        "video": "1560.mp4",
+        "question": "Why can't the faces of the two people dancing in the video be clearly recognized?",
+        "answers": [
+            "It can be seen that the background light source in the video is very intense, which causes the brightness contrast between the two people dancing and the background to be too high. As a result, the faces of the two people are overall too dark and cannot be clearly recognized.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "It can be seen that the background light source in the video is very intense, which causes the brightness contrast between the two people dancing and the background to be too high. As a result, the faces of the two people are overall too dark and cannot be clearly recognized."
+    },
+    {
+        "video": "00008_09.mp4",
+        "question": "How realistic are the meat textures in the video?",
+        "answers": [
+            "Quite poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite poor"
+    },
+    {
+        "video": "0173.mp4",
+        "question": "What are the main distortion issues in videos?",
+        "answers": [
+            "Low clarity, blurry screen, characters' features become blurry and stutter during movement",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Low clarity, blurry screen, characters' features become blurry and stutter during movement"
+    },
+    {
+        "video": "0012.mp4",
+        "question": "What obvious quality issues are present in this video?",
+        "answers": [
+            "Underexposure, noise, blurriness, grotesque style",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Underexposure, noise, blurriness, grotesque style"
+    },
+    {
+        "video": "LOL-035.mp4",
+        "question": "What is the most obvious artifact in this video?",
+        "answers": [
+            "Blur and low rendering precision",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blur and low rendering precision"
+    },
+    {
+        "video": "Minecraft-089.mp4",
+        "question": "Is the game model in this game video relatively complex?",
+        "answers": [
+            "Yes",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "No"
+    },
+    {
+        "video": "0144.mp4",
+        "question": "Is the overall playback of the video smooth? Please explain.",
+        "answers": [
+            "No, this video has evidently been processed with slow motion and frame extraction; the movements of the distant athletes have been slowed down and are not smooth.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "No, this video has evidently been processed with slow motion and frame extraction; the movements of the distant athletes have been slowed down and are not smooth."
+    },
+    {
+        "video": "4345.mp4",
+        "question": "This video is considered to be of high visual quality. Please analyze the specific reasons.",
+        "answers": [
+            "This video features excellent clarity, with detailed and well-defined characters. The movements of the characters in the video are smooth and continuous, with no noticeable lag or screen tearing. The display is stable, and there are no screen shakes.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "This video features excellent clarity, with detailed and well-defined characters. The movements of the characters in the video are smooth and continuous, with no noticeable lag or screen tearing. The display is stable, and there are no screen shakes."
+    },
+    {
+        "video": "0852.mp4",
+        "question": "How clear is the man in the black clothes in the video?",
+        "answers": [
+            "The clarity is quite low, making it difficult to clearly identify the features of the man in black clothes.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The clarity is quite low, making it difficult to clearly identify the features of the man in black clothes."
+    },
+    {
+        "video": "1247.mp4",
+        "question": "How is the overall clarity of this video?",
+        "answers": [
+            "Not very good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Not very good"
+    },
+    {
+        "video": "0371.mp4",
+        "question": "What is the primary quality issue with this video?",
+        "answers": [
+            "Low lighting, underexposed",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low lighting, underexposed"
+    },
+    {
+        "video": "4501.mp4",
+        "question": "How is the overall clarity of this video?",
+        "answers": [
+            "Not very good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Not very good"
+    },
+    {
+        "video": "0053.mp4",
+        "question": "What is the most obvious quality issue with this video?",
+        "answers": [
+            "Low brightness, underexposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Low brightness, underexposure"
+    },
+    {
+        "video": "9000349.mp4",
+        "question": "What kind of feeling does this video give?",
+        "answers": [
+            "Open, grand",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Aesthetic_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Open, grand"
+    },
+    {
+        "video": "00433_04.mp4",
+        "question": "How is the overall clarity of the video?",
+        "answers": [
+            "Very poor",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Very poor"
+    },
+    {
+        "video": "1614.mp4",
+        "question": "How is the clarity of the little girl playing the piano in the video?",
+        "answers": [
+            "Not very good",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Not very good"
+    },
+    {
+        "video": "02787_02.mp4",
+        "question": "What is the most obvious quality issue in the video?",
+        "answers": [
+            "Incorrect structure of the human hand",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Incorrect structure of the human hand"
+    },
+    {
+        "video": "0090.mp4",
+        "question": "What is the most apparent quality issue of the crowd filmed in this video?",
+        "answers": [
+            "Underexposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Underexposure"
+    },
+    {
+        "video": "01333_01.mp4",
+        "question": "How realistic are the leaves in the video?",
+        "answers": [
+            "Quite realistic",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Quite realistic"
+    },
+    {
+        "video": "0005111.mp4",
+        "question": "Please briefly describe the visual quality issues of this video.",
+        "answers": [
+            "The generated video's clarity is relatively low; the background of the grassland and sky is quite blurry, and the main subject's structure is chaotic and unclear. Overall, the video's quality is quite poor.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_Technical_AIGC",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The generated video's clarity is relatively low; the background of the grassland and sky is quite blurry, and the main subject's structure is chaotic and unclear. Overall, the video's quality is quite poor."
+    },
+    {
+        "video": "4379.mp4",
+        "question": "How is the lighting on the face of the woman doing yoga in the frame? Please provide a detailed analysis.",
+        "answers": [
+            "The lighting on the face of the woman doing yoga in the frame is relatively dim, but it does not affect facial recognition.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The lighting on the face of the woman doing yoga in the frame is relatively dim, but it does not affect facial recognition."
+    },
+    {
+        "video": "1100.mp4",
+        "question": "What is the most impactful quality issue in this video?",
+        "answers": [
+            "Underexposure",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Underexposure"
+    },
+    {
+        "video": "ElderScrolls-004.mp4",
+        "question": "What is the most obvious quality issue with this game video?",
+        "answers": [
+            "Blurry",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "CG",
+        "quality_concern": "CONCERN_Technical",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Blurry"
+    },
+    {
+        "video": "07052_08.mp4",
+        "question": "How realistic are the fireworks in the video?",
+        "answers": [
+            "Not very realistic",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "AIGC",
+        "quality_concern": "CONCERN_AIGC",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "Not very realistic"
+    },
+    {
+        "video": "4076.mp4",
+        "question": "Has the overall color temperature of the video changed? Please describe.",
+        "answers": [
+            "Yes, the color temperature has changed along with the screen. At the beginning of the video, the overall color temperature is relatively high, presenting a warm tone. However, as the video progresses, due to changes in ambient lighting, the overall color temperature gradually decreases.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "Yes, the color temperature has changed along with the screen. At the beginning of the video, the overall color temperature is relatively high, presenting a warm tone. However, as the video progresses, due to changes in ambient lighting, the overall color temperature gradually decreases."
+    },
+    {
+        "video": "4463.mp4",
+        "question": "How do you evaluate the visual quality of this video and why?",
+        "answers": [
+            "The video has a high clarity, is clear and smooth, reflecting a splendid beauty and elegance.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Technical_Temporal_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Global",
+        "correct_choice": "A",
+        "correct_ans": "The video has a high clarity, is clear and smooth, reflecting a splendid beauty and elegance."
+    },
+    {
+        "video": "0545.mp4",
+        "question": "How would you assess the lighting on the faces of the crowd dancing in this video?",
+        "answers": [
+            "The lighting is quite weak and uneven, making some people's faces completely dark and difficult to distinguish.",
+            "",
+            "",
+            ""
+        ],
+        "video_type": "Natural",
+        "quality_concern": "CONCERN_Aesthetic",
+        "question_type": "open_ended",
+        "context": "Referring",
+        "correct_choice": "A",
+        "correct_ans": "The lighting is quite weak and uneven, making some people's faces completely dark and difficult to distinguish."
+    }
+]
