@@ -6,12 +6,13 @@ Official implementation of VITAL: Vision-Encoder centered pretraining for LMMs i
 ## 📥 Model Download
 
 1. **Download the models**:
-   - **VITAL-Assistant-8B**, **VITAL-Base-8B**, and **VITAL-internvit-SF-400M** (Visual Encoder) should be placed under the `VITAL` folder.
+   - **VITAL-Assistant-8B**, **VITAL-Base-8B**, and **VITAL-Vision-Encoder-300M** (Visual Encoder) should be placed under the `VITAL-LMM` folder.
    - Additional zero or warm-up series models can be downloaded from HuggingFace.
    
-2. **For testing the extended functionality of the VITAL Visual Encoder** (e.g., lightweight linear-probe), place **VITAL-internvit-SF-400M** under the `VITAL_linear_probe` folder.
+2. **For testing the extended functionality of the VITAL Visual Encoder** (e.g., lightweight linear-probe), place **VITAL-Vision-Encoder-300M** under the `VITAL-linear-probe` folder.
 
-## ⚙️ VITAL Main Model (Using Large Model Architecture)
+## ⚙️ VITAL Main Models (Using LMM Architecture)
+`cd VITAL-LMM`
 
 ### 🧪 Testing
 
@@ -37,7 +38,7 @@ Official implementation of VITAL: Vision-Encoder centered pretraining for LMMs i
 ---
 
 ## 👁️‍🗨️ VITAL Linear Probe (Visual Encoder Extension)
-
+`cd VITAL-linear-probe`
 ### VITAL-Vision-Encoder Usage Guide
 
 This section covers the training/testing methods for adding non-LLM structures (e.g., linear probes) to **VITAL-Vision-Encoder**.
