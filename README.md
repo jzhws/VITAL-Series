@@ -81,7 +81,7 @@ This section covers the training/testing methods for adding non-LLM structures (
 
 When using the related models, please kindly cite the following reference articles:
 
-
+```bibtex
 @article{jia2025vital,
   title={VITAL: Vision-Encoder-centered Pre-training for LMMs in Visual Quality Assessment},
   author={Jia, Ziheng and Cao, Linhan and Han, Jinliang and Zhang, Zicheng and Qian, Jiaying and Wang, Jiarui and Chen, Zijian and Zhai, Guangtao and Min, Xiongkuo},
