@@ -27,9 +27,10 @@ To install the necessary environment, please use the provided `environment.yml` 
    - Update the `root` and `annotation` parameters with the image/video directory to be tested and the corresponding JSON files (example JSON files for scoring and description tasks are in `/shell/eval/custom`).
    
 2. **Run batch tests**:
-   - Use the following scripts for batch testing the scoring and description tasks:
-     - `evaluate_custom_scoring.sh` for the scoring task.
-     - `evaluate_custom_description.sh` for the description task.
+   - Use the following canonical scripts for batch testing:
+     - `bash shell/eval/evaluate_custom_scoring.sh` for the scoring task.
+     - `bash shell/eval/evaluate_custom_description.sh` for the description task.
+   - Legacy script names (`evaluate_custom_打分.sh` and `evaluate_custom_描述.sh`) remain as compatibility wrappers.
 
 3. **Scoring and Description Task Files**:
    - The specific Python files to run the scoring/description tasks are located in `internvl/eval`.
