@@ -38,9 +38,10 @@ For Python entry pipelines (especially under `internvl/eval` and `internvl/train
    - Update the `root` and `annotation` parameters with the image/video directory to be tested and the corresponding JSON files (example JSON files for scoring and description tasks are in `/shell/eval/custom`).
    
 2. **Run batch tests**:
-   - Use the following scripts for batch testing the scoring and description tasks:
-     - `evaluate_custom_scoring.sh` for the scoring task.
-     - `evaluate_custom_description.sh` for the description task.
+   - Use the following canonical scripts for batch testing:
+     - `bash shell/eval/evaluate_custom_scoring.sh` for the scoring task.
+     - `bash shell/eval/evaluate_custom_description.sh` for the description task.
+   - Legacy script names (`evaluate_custom_打分.sh` and `evaluate_custom_描述.sh`) remain as compatibility wrappers.
 
 3. **Scoring and Description Task Files**:
    - The specific Python files to run the scoring/description tasks are located in `internvl/eval`.
@@ -96,6 +97,27 @@ This section covers the training/testing methods for adding non-LLM structures (
 
 - **VITAL-Linear-Probe** (Use the code in the `VITAL-linear-probe` folder for training/testing):  
   [JZHWS/VITAL-Linear-Probe · Hugging Face](https://huggingface.co/JZHWS/VITAL-Linear-Probe)
+
+## 📈 GitHub Daily Star/Issue Report
+
+You can generate a daily report for `jzhws1/VITAL-Series` with:
+
+```bash
+python3 scripts/github_daily_report.py --repo jzhws1/VITAL-Series
+```
+
+The script writes:
+- `reports/github_daily_report.md`: current stars, open issue count, and issue updates from the last 24 hours.
+- `reports/.github_daily_state.json`: previous snapshot used to calculate deltas.
+
+For scheduled runs, see:
+
+```bash
+cat scripts/github_daily_cron.example
+```
+
+Optional: export `GITHUB_TOKEN` to increase GitHub API rate limits.
+
 ## 📚 Citation
 
 When using the related models, please kindly cite the following reference articles:

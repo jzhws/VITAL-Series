@@ -13,66 +13,95 @@ Run mode: intended for CLI execution in single-node or distributed jobs.
 # Licensed under The MIT License [see LICENSE for details]
 # --------------------------------------------------------
 
+"""Score InternVL responses under reduced-token evaluation settings.
+
+Execute with `python -m internvl.eval.scoring_less_token` for package-safe imports.
+"""
+
 import logging
 import math
 import os
 import random
+import re
 import sys
 import traceback
 import warnings
 from copy import deepcopy
 from dataclasses import dataclass, field
 from functools import partial
-from typing import Dict, Literal, Optional
-from scipy.stats import spearmanr, pearsonr
+from typing import Dict, List, Literal, Optional
+
 import numpy as np
-import re
+from scipy.stats import pearsonr, spearmanr
 from tqdm import tqdm
-from typing import List, Optional
+
 try:
     import orjson as json
 except:
     import json
-import sys
-print(sys.path)
-sys.path.append('./')
 import torch
 import torch.distributed as dist
 import transformers
 from internvl.dist_utils import init_dist
 from internvl.model.internlm2.modeling_internlm2 import InternLM2ForCausalLM
-from internvl.model.internvl_chat import (InternVisionConfig,
-                                          InternVisionModel,
-                                          InternVLChatConfig,
-                                          InternVLChatModel)
-from internvl.patch import (concat_pad_data_collator,
-                            replace_internlm2_attention_class,
-                            replace_llama_attention_class,
-                            replace_llama_rmsnorm_with_fused_rmsnorm,
-                            replace_phi3_attention_class,
-                            replace_qwen2_attention_class,
-                            replace_train_dataloader, replace_train_sampler)
-from internvl.train.constants import (BOX_END_TOKEN, BOX_START_TOKEN,
-                                      IMG_CONTEXT_TOKEN, IMG_END_TOKEN,
-                                      IMG_START_TOKEN, QUAD_END_TOKEN,
-                                      QUAD_START_TOKEN, REF_END_TOKEN,
-                                      REF_START_TOKEN)
-from internvl.train.dataset import (ConcatDataset, TCSLoader,
-                                    WeightedConcatDataset, build_transform,
-                                    check_conversations_repetition,
-                                    dynamic_preprocess, preprocess,
-                                    preprocess_internlm,
-                                    preprocess_internvl2_5, preprocess_mpt,
-                                    preprocess_phi3)
+from internvl.model.internvl_chat import (
+    InternVisionConfig,
+    InternVisionModel,
+    InternVLChatConfig,
+    InternVLChatModel,
+)
+from internvl.patch import (
+    concat_pad_data_collator,
+    replace_internlm2_attention_class,
+    replace_llama_attention_class,
+    replace_llama_rmsnorm_with_fused_rmsnorm,
+    replace_phi3_attention_class,
+    replace_qwen2_attention_class,
+    replace_train_dataloader,
+    replace_train_sampler,
+)
+from internvl.train.constants import (
+    BOX_END_TOKEN,
+    BOX_START_TOKEN,
+    IMG_CONTEXT_TOKEN,
+    IMG_END_TOKEN,
+    IMG_START_TOKEN,
+    QUAD_END_TOKEN,
+    QUAD_START_TOKEN,
+    REF_END_TOKEN,
+    REF_START_TOKEN,
+)
+from internvl.train.dataset import (
+    ConcatDataset,
+    TCSLoader,
+    WeightedConcatDataset,
+    build_transform,
+    check_conversations_repetition,
+    dynamic_preprocess,
+    preprocess,
+    preprocess_internlm,
+    preprocess_internvl2_5,
+    preprocess_mpt,
+    preprocess_phi3,
+)
 from internvl.train.dataset_packed import PackedDataset, packed_collate_fn
 from PIL import Image, ImageFile, PngImagePlugin, UnidentifiedImageError
 from torch.utils.data import Dataset
-from transformers import (AutoConfig, AutoModelForCausalLM, AutoTokenizer,
-                          HfArgumentParser, Trainer, TrainingArguments,
-                          set_seed)
+from transformers import (
+    AutoConfig,
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    HfArgumentParser,
+    Trainer,
+    TrainingArguments,
+    set_seed,
+)
 from transformers.trainer_utils import get_last_checkpoint
-from transformers.utils.logging import (enable_default_handler,
-                                        enable_explicit_format, set_verbosity)
+from transformers.utils.logging import (
+    enable_default_handler,
+    enable_explicit_format,
+    set_verbosity,
+)
 
 # Try to import petrel_client for image loading, fallback to PIL if unavailable
 try:
@@ -1095,8 +1124,10 @@ def main():
 
     if model_args.use_liger:
         from internvl.patch import apply_liger_kernel_to_internvit
-        from liger_kernel.transformers import (apply_liger_kernel_to_llama,
-                                               apply_liger_kernel_to_qwen2)
+        from liger_kernel.transformers import (
+            apply_liger_kernel_to_llama,
+            apply_liger_kernel_to_qwen2,
+        )
         apply_liger_kernel_to_llama()
         apply_liger_kernel_to_qwen2()
         # apply_liger_kernel_to_internvit()

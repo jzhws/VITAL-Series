@@ -1,0 +1,2 @@
+# Run every 24 hours at 09:00 UTC
+0 9 * * * cd /workspace/VITAL-Series && /usr/bin/env python3 scripts/github_daily_report.py --repo jzhws1/VITAL-Series >> reports/github_daily_cron.log 2>&1
