@@ -85,6 +85,27 @@ This section covers the training/testing methods for adding non-LLM structures (
 
 - **VITAL-Linear-Probe** (Use the code in the `VITAL-linear-probe` folder for training/testing):  
   [JZHWS/VITAL-Linear-Probe · Hugging Face](https://huggingface.co/JZHWS/VITAL-Linear-Probe)
+
+## 📈 GitHub Daily Star/Issue Report
+
+You can generate a daily report for `jzhws1/VITAL-Series` with:
+
+```bash
+python3 scripts/github_daily_report.py --repo jzhws1/VITAL-Series
+```
+
+The script writes:
+- `reports/github_daily_report.md`: current stars, open issue count, and issue updates from the last 24 hours.
+- `reports/.github_daily_state.json`: previous snapshot used to calculate deltas.
+
+For scheduled runs, see:
+
+```bash
+cat scripts/github_daily_cron.example
+```
+
+Optional: export `GITHUB_TOKEN` to increase GitHub API rate limits.
+
 ## 📚 Citation
 
 When using the related models, please kindly cite the following reference articles:
