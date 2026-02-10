@@ -1,3 +1,12 @@
+"""Entry-point pipeline for VITAL InternVL training/evaluation.
+
+Purpose: bootstrap distributed runtime, load multimodal datasets/models, and run
+train-or-evaluate loops for quality assessment tasks.
+Inputs/Outputs: consumes CLI/JSON config arguments and dataset metadata files;
+produces model checkpoints, logs, and optional prediction artifacts.
+Run mode: intended for CLI execution in single-node or distributed jobs.
+"""
+
 # --------------------------------------------------------
 # InternVL
 # Copyright (c) 2024 OpenGVLab
@@ -332,7 +341,8 @@ class LazySupervisedDataset(Dataset):
         self.max_num_images = 1
         self.max_tokens = tokenizer.model_max_length
         self.force_shuffle = force_shuffle
-        # TODO: quick resume
+        # Tracks dataloader progress for interrupted jobs; remove after stateful dataset resume
+        # support is merged in the training infrastructure (owner: training infra maintainers).
         self._state_dict = {}
 
         logger.info('Formatting inputs...Skip in lazy mode')
@@ -636,7 +646,8 @@ class LazySupervisedDataset(Dataset):
         video_path = os.path.join(self.root, video_file)
 
         # Load the video frames using tcs_loader
-        # TODO: Load videos without using tcsloader.
+        # Use this fallback path when ceph/petrel is unavailable; remove after a unified
+        # video loader lands in dataset_qbench with parity test coverage (owner: data pipeline maintainers).
         # image_list = self.tcs_loader(
         #     video_path,
         #     image_type='video',
@@ -864,6 +875,23 @@ def build_datasets(
     max_num_frame=32,
     normalize_type='imagenet',
 ):
+    """Build and compose training datasets from metadata config.
+
+    Args:
+        data_args: Data pipeline and packing/resampling options.
+        tokenizer: Tokenizer used for token-length estimates and preprocessing.
+        tcs_loader: Optional petrel client wrapper for remote image/video loading.
+        model: Loaded model used to derive image-token count.
+        group_by_length: Whether to cache approximate sample lengths.
+        dynamic_image_size: Whether to use dynamic patching.
+        use_thumbnail: Whether to append thumbnail patches.
+        min_dynamic_patch: Minimum dynamic patches per sample.
+        max_dynamic_patch: Maximum dynamic patches per sample.
+        normalize_type: Image normalization recipe name.
+    Returns:
+        A dataset object (ConcatDataset/WeightedConcatDataset/PackedDataset).
+    Raises:
+        ValueError: If dataset metadata is missing required fields."""
     datasets = []
     lengths = []
     data_rank = dist.get_rank()
@@ -936,6 +964,15 @@ def build_datasets(
 
 
 def len2weight(x, loss_reduction):
+    """Convert sequence length to sample weight.
+
+    Args:
+        x: Sequence length or token count for one sample.
+        loss_reduction: Weighting strategy (token/sample/square).
+    Returns:
+        Scalar weight used for loss aggregation.
+    Raises:
+        NotImplementedError: If loss_reduction is unsupported."""
     if x == 0:
         return x
     if loss_reduction == 'token':
@@ -947,6 +984,14 @@ def len2weight(x, loss_reduction):
     raise NotImplementedError(loss_reduction)
 
 def extract_answer(text):
+    """Extract answer payload from <answer>...</answer> tags.
+
+    Args:
+        text: Model output text that may contain XML-like answer tags.
+    Returns:
+        Parsed answer string, or an empty string when tags are absent.
+    Raises:
+        None."""
     pattern = r'<answer>\s*(.*?)\s*</answer>'
     match = re.search(pattern, text, re.DOTALL)
     if match:
@@ -954,6 +999,14 @@ def extract_answer(text):
     return ""
 
 def main():
+    """Run distributed training/evaluation from CLI or JSON arguments.
+
+    Args:
+        None (arguments are read from sys.argv).
+    Returns:
+        None.
+    Raises:
+        ValueError: If output_dir is non-empty and overwrite safeguards fail."""
     # Apply necessary patches for the transformers library
     replace_llama_rmsnorm_with_fused_rmsnorm()
     replace_train_sampler()
@@ -966,7 +1019,7 @@ def main():
     init_dist(launcher=launcher, backend='nccl')
     parser = HfArgumentParser((ModelArguments, DataTrainingArguments, TrainingArguments))
 
-    # 添加命令行参数
+    # Parse CLI arguments or a single JSON config path.
     if len(sys.argv) == 2 and sys.argv[1].endswith('.json'):
         # If we pass only one argument to the script, and it's the path to a json file,
         # let's parse it to get our arguments.
@@ -1026,7 +1079,7 @@ def main():
     os.makedirs(f"results_rating_{'_'.join(model_name_or_path1.split('/')[-2:])}",exist_ok=True)
     
         
-# +    # Load pretrained model, tokenizer, and image processor
+# Load pretrained model, tokenizer, and image processor.
     tokenizer_path = model_args.model_name_or_path or model_args.llm_path
     logger.info(f'Loading Tokenizer: {tokenizer_path}')
     tokenizer = AutoTokenizer.from_pretrained(
