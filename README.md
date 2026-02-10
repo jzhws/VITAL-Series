@@ -10,6 +10,17 @@ Official implementation of VITAL: Vision-Encoder centered pretraining for LMMs i
 To install the necessary environment, please use the provided `environment.yml` file. It contains all the dependencies required for running the models.
 
 
+## 📝 Commenting Standard
+
+For Python entry pipelines (especially under `internvl/eval` and `internvl/train`), use the following concise rules:
+
+- **Module docstring (required):** include purpose, expected inputs/outputs, and intended run mode (CLI, distributed job, offline script, etc.).
+- **Function docstring (required for public/entry functions):** include `Args`, `Returns`, and `Raises`.
+- **Inline comments (sparingly):** only explain non-obvious model/data-flow decisions, fallback behavior, or environment constraints.
+- **Avoid comment noise:** do not narrate obvious one-line assignments or simple control flow.
+- **TODO format:** state why it exists, the dependency/condition for removal, and owner (team or component).
+
+
 ## 📥 Model Download
 
 1. **Download the models**:
