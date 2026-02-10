@@ -1,3 +1,8 @@
+"""Run conversational evaluation for InternVL checkpoints.
+
+Execute with `python -m internvl.eval.conversation` so absolute package imports resolve correctly.
+"""
+
 
 import logging
 import math
@@ -5,23 +10,19 @@ import os
 import random
 import sys
 import traceback
+from typing import Dict, List, Literal, Optional
 import warnings
 from copy import deepcopy
 from dataclasses import dataclass, field
 from functools import partial
-from typing import Dict, Literal, Optional
 from scipy.stats import spearmanr, pearsonr
 import numpy as np
 import re
 from tqdm import tqdm
-from typing import List, Optional
 try:
     import orjson as json
 except:
     import json
-import sys
-print(sys.path)
-sys.path.append('./')
 import torch
 import torch.distributed as dist
 import transformers
