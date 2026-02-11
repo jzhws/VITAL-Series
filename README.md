@@ -26,6 +26,18 @@ conda env create -f environment.yml
 ```
 
 If needed, adjust CUDA/PyTorch versions according to your machine.
+## 📝 Commenting Standard
+
+For Python entry pipelines (especially under `internvl/eval` and `internvl/train`), use the following concise rules:
+
+- **Module docstring (required):** include purpose, expected inputs/outputs, and intended run mode (CLI, distributed job, offline script, etc.).
+- **Function docstring (required for public/entry functions):** include `Args`, `Returns`, and `Raises`.
+- **Inline comments (sparingly):** only explain non-obvious model/data-flow decisions, fallback behavior, or environment constraints.
+- **Avoid comment noise:** do not narrate obvious one-line assignments or simple control flow.
+- **TODO format:** state why it exists, the dependency/condition for removal, and owner (team or component).
+
+
+## 📥 Model Download
 
 ---
 
