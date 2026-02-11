@@ -1,15 +1,31 @@
 # VITAL-Series
 
-Official implementation of VITAL: Vision-Encoder centered pretraining for LMMs in visual quality assessment.
-<div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:100%" src="teaser.jpg">
-</div>
+Official implementation of **VITAL: Vision-Encoder-centered pretraining for LMMs in visual quality assessment**.
+
+<p align="center">
+  <img src="teaser.jpg" alt="VITAL teaser" width="100%" />
+</p>
+
+---
+
+## ✨ Overview
+
+VITAL-Series contains two major components:
+
+- **VITAL-LMM**: training/evaluation code for VITAL main models.
+- **VITAL-linear-probe**: visual encoder extension workflows (e.g., linear-probe and lightweight downstream adaptation).
+
+---
 
 ## ⚙️ Environment Setup
 
-To install the necessary environment, please use the provided `environment.yml` file. It contains all the dependencies required for running the models.
+Use the provided environment file:
 
+```bash
+conda env create -f environment.yml
+```
 
+If needed, adjust CUDA/PyTorch versions according to your machine.
 ## 📝 Commenting Standard
 
 For Python entry pipelines (especially under `internvl/eval` and `internvl/train`), use the following concise rules:
@@ -23,104 +39,122 @@ For Python entry pipelines (especially under `internvl/eval` and `internvl/train
 
 ## 📥 Model Download
 
-1. **Download the models**:
-   - **VITAL-Assistant-8B**, **VITAL-Base-8B**, and **VITAL-Vision-Encoder-300M** (Visual Encoder) should be placed under the `VITAL-LMM` folder.
-   - Additional zero or warm-up series models can be downloaded from HuggingFace.
-   
-2. **For testing the extended functionality of the VITAL Visual Encoder** (e.g., lightweight linear-probe), place **VITAL-Vision-Encoder-300M** under the `VITAL-linear-probe` folder.
+---
 
-## ⚙️ VITAL Main Models (Using LMM Architecture)
-`cd VITAL-LMM`
+## 📥 Model Download & Placement
+
+1. Download **VITAL-Assistant-8B**, **VITAL-Base-8B**, and **VITAL-Vision-Encoder-300M**.
+2. Place LMM-related models under `VITAL-LMM`.
+3. For visual-encoder extension experiments (e.g., linear-probe), place **VITAL-Vision-Encoder-300M** under `VITAL-linear-probe`.
+4. Additional zero/warm-up series models are available on Hugging Face (see [Model Zoo](#-model-zoo)).
+
+---
+
+## 🚀 VITAL Main Models (LMM)
+
+```bash
+cd VITAL-LMM
+```
 
 ### 🧪 Testing
 
-1. **Modify the JSON files** located in `shell/eval/eval_data` (there are two JSON files, one for scoring and one for description tasks):
-   - Update the `root` and `annotation` parameters with the image/video directory to be tested and the corresponding JSON files (example JSON files for scoring and description tasks are in `/shell/eval/custom`).
-   
-2. **Run batch tests**:
-   - Use the following canonical scripts for batch testing:
-     - `bash shell/eval/evaluate_custom_scoring.sh` for the scoring task.
-     - `bash shell/eval/evaluate_custom_description.sh` for the description task.
-   - Legacy script names (`evaluate_custom_打分.sh` and `evaluate_custom_描述.sh`) remain as compatibility wrappers.
+1. Edit JSON configs in `shell/eval/eval_data`:
+   - Update `root` and `annotation` to your image/video paths and annotation files.
+   - Example files are provided in `shell/eval/custom`.
 
-3. **Scoring and Description Task Files**:
-   - The specific Python files to run the scoring/description tasks are located in `internvl/eval`.
-   - By default, scoring uses `scoring.py`. If you need to score videos quickly, use `scoring_less_token.py`.
-     - To switch to this file, modify line 31 in `evaluate_custom_scoring.sh` to point to this script.
+2. Run batch evaluation scripts:
 
-### 🏋️‍♂️ Training
+```bash
+bash shell/eval/evaluate_custom_scoring.sh
+bash shell/eval/evaluate_custom_description.sh
+```
 
-1. Use the shell scripts from `training_shell` to begin training (modify the file paths as instructed):
-   - `pretrain.sh` for pre-training.
-   - `warm_up.sh` for quick adaptation training.
+> Legacy wrappers `evaluate_custom_打分.sh` and `evaluate_custom_描述.sh` are kept for compatibility.
+
+3. Evaluation entry scripts are in `internvl/eval`:
+   - Default scoring: `scoring.py`
+   - Faster video scoring: `scoring_less_token.py`
+
+If you want to use `scoring_less_token.py`, modify line 31 in `shell/eval/evaluate_custom_scoring.sh` accordingly.
+
+### 🏋️ Training
+
+Use scripts in `training_shell` (update data/model paths before running):
+
+```bash
+bash training_shell/pretrain.sh
+bash training_shell/warm_up.sh
+```
+
+---
+
+## 👁️ VITAL Linear Probe (Visual Encoder Extension)
+
+```bash
+cd VITAL-linear-probe
+```
+
+This module supports training/testing with non-LLM heads (e.g., linear probes) on top of **VITAL-Vision-Encoder**.
+
+### 🏋️ Training
+
+```bash
+bash shell/probe_finetune.sh
+```
+
+### 🧪 Testing
+
+```bash
+bash shell/evaluate_video.sh
+```
+
+Please update file paths in scripts for your local setup.
 
 ---
 
-## 👁️‍🗨️ VITAL Linear Probe (Visual Encoder Extension)
-`cd VITAL-linear-probe`
-### VITAL-Vision-Encoder Usage Guide
+## 📦 Model Zoo
 
-This section covers the training/testing methods for adding non-LLM structures (e.g., linear probes) to **VITAL-Vision-Encoder**.
+### VITAL Main Models
 
-#### 🏋️‍♂️ Training
+- **VITAL-Base-8B**: <https://huggingface.co/JZHWS/VITAL-Base-8B/tree/main>
+- **VITAL-Assistant-8B**: <https://huggingface.co/JZHWS/VITAL-Assistant-8B>
+- **VITAL-Warm-up-1B**: <https://huggingface.co/JZHWS/VITAL-Warm-up-1B>
+- **VITAL-Warm-up-2B**: <https://huggingface.co/JZHWS/VITAL-Warm-up-2B>
+- **VITAL-Warm-up-14B**: <https://huggingface.co/JZHWS/VITAL-Warm-up-14B>
 
-1. Run `shell/probe_finetune.sh` (modify the file paths as instructed in the script).
+### Vision Encoder & Extensions
 
-#### 🧪 Testing
-
-1. Run `shell/evaluate_video.sh` (adjust the file paths based on the instructions provided).
+- **VITAL-Vision-Encoder-300M**: <https://huggingface.co/JZHWS/VITAL-Vision-Encoder-300M>
+- **VITAL-Linear-Probe**: <https://huggingface.co/JZHWS/VITAL-Linear-Probe>
 
 ---
-## Model Zoo
-
-### 📦 VITAL Models
-
-- **VITAL-Base-8B** (Use the code in the `VITAL-LMM` folder for training/testing):  
-  [JZHWS/VITAL-Base-8B at main](https://huggingface.co/JZHWS/VITAL-Base-8B/tree/main)
-  
-- **VITAL-Assistant-8B** (Use the code in the `VITAL-LMM` folder for training/testing):  
-  [JZHWS/VITAL-Assistant-8B · Hugging Face](https://huggingface.co/JZHWS/VITAL-Assistant-8B)
-
-- **VITAL-Warm-up-1B** (Use the code in the `VITAL-LMM` folder for training/testing):  
-  [JZHWS/VITAL-Warm-up-1B · Hugging Face](https://huggingface.co/JZHWS/VITAL-Warm-up-1B)
-
-- **VITAL-Warm-up-2B** (Use the code in the `VITAL-LMM` folder for training/testing):  
-  [JZHWS/VITAL-Warm-up-2B · Hugging Face](https://huggingface.co/JZHWS/VITAL-Warm-up-2B)
-
-- **VITAL-Warm-up-14B** (Use the code in the `VITAL-LMM` folder for training/testing):  
-  [JZHWS/VITAL-Warm-up-14B · Hugging Face](https://huggingface.co/JZHWS/VITAL-Warm-up-14B)
-
-### 👁️ VITAL Vision Encoder & Extensions
-
-- **VITAL-Vision-Encoder-300M** (Use the code in the `VITAL-linear-probe` folder, suitable for downstream tasks fine-tuning or model structure transfer, see Linear-probe usage and VITAL-Zero model construction):  
-  [JZHWS/VITAL-Vision-Encoder-300M · Hugging Face](https://huggingface.co/JZHWS/VITAL-Vision-Encoder-300M)
-
-- **VITAL-Linear-Probe** (Use the code in the `VITAL-linear-probe` folder for training/testing):  
-  [JZHWS/VITAL-Linear-Probe · Hugging Face](https://huggingface.co/JZHWS/VITAL-Linear-Probe)
 
 ## 📈 GitHub Daily Star/Issue Report
 
-You can generate a daily report for `jzhws1/VITAL-Series` with:
+Generate a daily report for `jzhws1/VITAL-Series`:
 
 ```bash
 python3 scripts/github_daily_report.py --repo jzhws1/VITAL-Series
 ```
 
-The script writes:
-- `reports/github_daily_report.md`: current stars, open issue count, and issue updates from the last 24 hours.
-- `reports/.github_daily_state.json`: previous snapshot used to calculate deltas.
+Outputs:
 
-For scheduled runs, see:
+- `reports/github_daily_report.md`: current stars, open issue count, and 24h issue updates.
+- `reports/.github_daily_state.json`: previous snapshot used for delta calculation.
+
+For scheduled runs:
 
 ```bash
 cat scripts/github_daily_cron.example
 ```
 
-Optional: export `GITHUB_TOKEN` to increase GitHub API rate limits.
+Optional: set `GITHUB_TOKEN` to increase GitHub API rate limits.
+
+---
 
 ## 📚 Citation
 
-When using the related models, please kindly cite the following reference articles:
+If you use this project, please cite:
 
 ```bibtex
 @article{jia2025vital,
@@ -145,6 +179,8 @@ When using the related models, please kindly cite the following reference articl
   pages={3229--3239},
   year={2025}
 }
+```
 
+---
 
-Feel free to adjust the file paths and parameters as necessary according to your setup. For any other questions or issues, please refer to the official documentation or open an issue on this repository!
+For custom environments, adjust file paths and parameters as needed. If you encounter issues, feel free to open an issue in this repository.
