@@ -1,0 +1,8 @@
+{ 
+  "example": {
+    "root": "your video root",
+    "annotation": "data/pretrain/example.json",
+    "data_augment": false,
+    "repeat_time": 1
+  }
+  }

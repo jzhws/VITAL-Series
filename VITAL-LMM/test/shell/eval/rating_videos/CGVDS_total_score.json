@@ -1,0 +1,1787 @@
+[
+        {
+            "video": "Overwatch_30_30fps_640x480_30_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.09"
+        },
+        {
+            "video": "Overwatch_30_30fps_640x480_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.67"
+        },
+        {
+            "video": "Overwatch_30_30fps_640x480_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.02"
+        },
+        {
+            "video": "Overwatch_30_30fps_640x480_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.18"
+        },
+        {
+            "video": "Overwatch_2_30_640x480_60_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.71"
+        },
+        {
+            "video": "Overwatch_2_30_640x480_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.36"
+        },
+        {
+            "video": "Overwatch_2_30_640x480_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.08"
+        },
+        {
+            "video": "Overwatch_2_30_640x480_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.27"
+        },
+        {
+            "video": "Overwatch_30_30fps_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.34"
+        },
+        {
+            "video": "Overwatch_30_30fps_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.34"
+        },
+        {
+            "video": "Overwatch_30_30fps_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.85"
+        },
+        {
+            "video": "Overwatch_30_30fps_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.1"
+        },
+        {
+            "video": "Overwatch_2_30_1280x720_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.75"
+        },
+        {
+            "video": "Overwatch_2_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.68"
+        },
+        {
+            "video": "Overwatch_2_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.6"
+        },
+        {
+            "video": "Overwatch_2_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.35"
+        },
+        {
+            "video": "Overwatch_30_30fps_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.5"
+        },
+        {
+            "video": "Overwatch_30_30fps_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.15"
+        },
+        {
+            "video": "Overwatch_30_30fps_1920x1080_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.34"
+        },
+        {
+            "video": "Overwatch_30_30fps_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.5"
+        },
+        {
+            "video": "Overwatch_2_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.95"
+        },
+        {
+            "video": "Overwatch_2_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.38"
+        },
+        {
+            "video": "Overwatch_2_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.95"
+        },
+        {
+            "video": "Overwatch_2_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.72"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_640x480_30_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.23"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_640x480_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.19"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_640x480_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.63"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_640x480_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.98"
+        },
+        {
+            "video": "RaymanLegends_30_640x480_60_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.78"
+        },
+        {
+            "video": "RaymanLegends_30_640x480_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.08"
+        },
+        {
+            "video": "RaymanLegends_30_640x480_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.5"
+        },
+        {
+            "video": "RaymanLegends_30_640x480_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.99"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.2"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.97"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.16"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.55"
+        },
+        {
+            "video": "RaymanLegends_30_1280x720_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.8"
+        },
+        {
+            "video": "RaymanLegends_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.71"
+        },
+        {
+            "video": "RaymanLegends_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.19"
+        },
+        {
+            "video": "RaymanLegends_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.06"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.86"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.41"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_1920x1080_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.88"
+        },
+        {
+            "video": "RaymanLegends_30_30fps_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.19"
+        },
+        {
+            "video": "RaymanLegends_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.26"
+        },
+        {
+            "video": "RaymanLegends_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.97"
+        },
+        {
+            "video": "RaymanLegends_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.53"
+        },
+        {
+            "video": "RaymanLegends_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.43"
+        },
+        {
+            "video": "BlackDesert_30_30fps_640x480_30_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.97"
+        },
+        {
+            "video": "BlackDesert_30_30fps_640x480_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.94"
+        },
+        {
+            "video": "BlackDesert_30_30fps_640x480_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.3"
+        },
+        {
+            "video": "BlackDesert_30_30fps_640x480_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.78"
+        },
+        {
+            "video": "BlackDesert_30_640x480_60_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.77"
+        },
+        {
+            "video": "BlackDesert_30_640x480_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.74"
+        },
+        {
+            "video": "BlackDesert_30_640x480_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.06"
+        },
+        {
+            "video": "BlackDesert_30_640x480_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.88"
+        },
+        {
+            "video": "BlackDesert_30_30fps_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.94"
+        },
+        {
+            "video": "BlackDesert_30_30fps_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.66"
+        },
+        {
+            "video": "BlackDesert_30_30fps_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.44"
+        },
+        {
+            "video": "BlackDesert_30_30fps_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.97"
+        },
+        {
+            "video": "BlackDesert_30_1280x720_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.55"
+        },
+        {
+            "video": "BlackDesert_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.27"
+        },
+        {
+            "video": "BlackDesert_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.94"
+        },
+        {
+            "video": "BlackDesert_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.06"
+        },
+        {
+            "video": "BlackDesert_30_30fps_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.37"
+        },
+        {
+            "video": "BlackDesert_30_30fps_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.12"
+        },
+        {
+            "video": "BlackDesert_30_30fps_1920x1080_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.68"
+        },
+        {
+            "video": "BlackDesert_30_30fps_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.5"
+        },
+        {
+            "video": "BlackDesert_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.98"
+        },
+        {
+            "video": "BlackDesert_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.73"
+        },
+        {
+            "video": "BlackDesert_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.27"
+        },
+        {
+            "video": "BlackDesert_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.35"
+        },
+        {
+            "video": "ffxv_30_30fps_640x480_30_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.09"
+        },
+        {
+            "video": "ffxv_30_30fps_640x480_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.19"
+        },
+        {
+            "video": "ffxv_30_30fps_640x480_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.45"
+        },
+        {
+            "video": "ffxv_30_30fps_640x480_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.92"
+        },
+        {
+            "video": "ffxv_30_640x480_60_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.89"
+        },
+        {
+            "video": "ffxv_30_640x480_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.83"
+        },
+        {
+            "video": "ffxv_30_640x480_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.41"
+        },
+        {
+            "video": "ffxv_30_640x480_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.01"
+        },
+        {
+            "video": "ffxv_30_30fps_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.78"
+        },
+        {
+            "video": "ffxv_30_30fps_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.73"
+        },
+        {
+            "video": "ffxv_30_30fps_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.3"
+        },
+        {
+            "video": "ffxv_30_30fps_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.84"
+        },
+        {
+            "video": "ffxv_30_1280x720_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.46"
+        },
+        {
+            "video": "ffxv_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.02"
+        },
+        {
+            "video": "ffxv_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.93"
+        },
+        {
+            "video": "ffxv_30_30fps_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.38"
+        },
+        {
+            "video": "ffxv_30_30fps_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.41"
+        },
+        {
+            "video": "ffxv_30_30fps_1920x1080_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.75"
+        },
+        {
+            "video": "ffxv_30_30fps_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.47"
+        },
+        {
+            "video": "ffxv_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.89"
+        },
+        {
+            "video": "ffxv_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.1"
+        },
+        {
+            "video": "ffxv_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.44"
+        },
+        {
+            "video": "ffxv_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.48"
+        },
+        {
+            "video": "maplestory_30_30fps_640x480_30_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.22"
+        },
+        {
+            "video": "maplestory_30_30fps_640x480_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.1"
+        },
+        {
+            "video": "maplestory_30_30fps_640x480_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.43"
+        },
+        {
+            "video": "maplestory_30_30fps_640x480_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.69"
+        },
+        {
+            "video": "maplestory_30_640x480_60_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.99"
+        },
+        {
+            "video": "maplestory_30_640x480_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.11"
+        },
+        {
+            "video": "maplestory_30_640x480_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.4"
+        },
+        {
+            "video": "maplestory_30_640x480_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.6"
+        },
+        {
+            "video": "maplestory_30_30fps_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.35"
+        },
+        {
+            "video": "maplestory_30_30fps_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.23"
+        },
+        {
+            "video": "maplestory_30_30fps_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.41"
+        },
+        {
+            "video": "maplestory_30_30fps_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.96"
+        },
+        {
+            "video": "maplestory_30_1280x720_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.7"
+        },
+        {
+            "video": "maplestory_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.82"
+        },
+        {
+            "video": "maplestory_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.18"
+        },
+        {
+            "video": "maplestory_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.98"
+        },
+        {
+            "video": "maplestory_30_30fps_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.13"
+        },
+        {
+            "video": "maplestory_30_30fps_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.75"
+        },
+        {
+            "video": "maplestory_30_30fps_1920x1080_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.05"
+        },
+        {
+            "video": "maplestory_30_30fps_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.08"
+        },
+        {
+            "video": "maplestory_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.31"
+        },
+        {
+            "video": "maplestory_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.43"
+        },
+        {
+            "video": "maplestory_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.66"
+        },
+        {
+            "video": "maplestory_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.41"
+        },
+        {
+            "video": "R5Apex_30_30fps_640x480_30_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.99"
+        },
+        {
+            "video": "R5Apex_30_30fps_640x480_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.96"
+        },
+        {
+            "video": "R5Apex_30_30fps_640x480_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.38"
+        },
+        {
+            "video": "R5Apex_30_30fps_640x480_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.81"
+        },
+        {
+            "video": "R5Apex_30_640x480_60_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.72"
+        },
+        {
+            "video": "R5Apex_30_640x480_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.95"
+        },
+        {
+            "video": "R5Apex_30_640x480_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.31"
+        },
+        {
+            "video": "R5Apex_30_640x480_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.63"
+        },
+        {
+            "video": "R5Apex_30_30fps_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.9"
+        },
+        {
+            "video": "R5Apex_30_30fps_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.78"
+        },
+        {
+            "video": "R5Apex_30_30fps_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.45"
+        },
+        {
+            "video": "R5Apex_30_30fps_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.84"
+        },
+        {
+            "video": "R5Apex_30_1280x720_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.66"
+        },
+        {
+            "video": "R5Apex_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.5"
+        },
+        {
+            "video": "R5Apex_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.15"
+        },
+        {
+            "video": "R5Apex_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.15"
+        },
+        {
+            "video": "R5Apex_30_30fps_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.35"
+        },
+        {
+            "video": "R5Apex_30_30fps_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.26"
+        },
+        {
+            "video": "R5Apex_30_30fps_1920x1080_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.78"
+        },
+        {
+            "video": "R5Apex_30_30fps_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.19"
+        },
+        {
+            "video": "R5Apex_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.0"
+        },
+        {
+            "video": "R5Apex_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.94"
+        },
+        {
+            "video": "R5Apex_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.22"
+        },
+        {
+            "video": "R5Apex_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.45"
+        },
+        {
+            "video": "Fortnite_30_1280x720_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.05"
+        },
+        {
+            "video": "Fortnite_30_1280x720_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.6"
+        },
+        {
+            "video": "Fortnite_30_1280x720_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.97"
+        },
+        {
+            "video": "Fortnite_30_1280x720_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.51"
+        },
+        {
+            "video": "Fortnite_30_30_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.44"
+        },
+        {
+            "video": "Fortnite_30_30_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.39"
+        },
+        {
+            "video": "Fortnite_30_30_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.64"
+        },
+        {
+            "video": "Fortnite_30_30_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.3"
+        },
+        {
+            "video": "Fortnite_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.94"
+        },
+        {
+            "video": "Fortnite_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.77"
+        },
+        {
+            "video": "Fortnite_30_1280x720_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.07"
+        },
+        {
+            "video": "Fortnite_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.43"
+        },
+        {
+            "video": "Fortnite_30_1920x1080_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.23"
+        },
+        {
+            "video": "Fortnite_30_1920x1080_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.87"
+        },
+        {
+            "video": "Fortnite_30_1920x1080_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.63"
+        },
+        {
+            "video": "Fortnite_30_1920x1080_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.26"
+        },
+        {
+            "video": "Fortnite_30_30_1920x1080_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.91"
+        },
+        {
+            "video": "Fortnite_30_30_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.85"
+        },
+        {
+            "video": "Fortnite_30_30_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.77"
+        },
+        {
+            "video": "Fortnite_30_30_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.76"
+        },
+        {
+            "video": "Fortnite_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.44"
+        },
+        {
+            "video": "Fortnite_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.3"
+        },
+        {
+            "video": "Fortnite_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.87"
+        },
+        {
+            "video": "Fortnite_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "6.06"
+        },
+        {
+            "video": "Fifa_30_1280x720_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.19"
+        },
+        {
+            "video": "Fifa_30_1280x720_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.97"
+        },
+        {
+            "video": "Fifa_30_1280x720_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.13"
+        },
+        {
+            "video": "Fifa_30_1280x720_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.64"
+        },
+        {
+            "video": "Fifa_30_30_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.27"
+        },
+        {
+            "video": "Fifa_30_30_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.88"
+        },
+        {
+            "video": "Fifa_30_30_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.27"
+        },
+        {
+            "video": "Fifa_30_30_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.6"
+        },
+        {
+            "video": "Fifa_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.06"
+        },
+        {
+            "video": "Fifa_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.46"
+        },
+        {
+            "video": "Fifa_30_1280x720_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.87"
+        },
+        {
+            "video": "Fifa_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.11"
+        },
+        {
+            "video": "Fifa_30_1920x1080_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.79"
+        },
+        {
+            "video": "Fifa_30_1920x1080_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.73"
+        },
+        {
+            "video": "Fifa_30_1920x1080_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.35"
+        },
+        {
+            "video": "Fifa_30_1920x1080_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.28"
+        },
+        {
+            "video": "Fifa_30_30_1920x1080_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.12"
+        },
+        {
+            "video": "Fifa_30_30_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.89"
+        },
+        {
+            "video": "Fifa_30_30_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.43"
+        },
+        {
+            "video": "Fifa_30_30_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.13"
+        },
+        {
+            "video": "Fifa_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.95"
+        },
+        {
+            "video": "Fifa_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.52"
+        },
+        {
+            "video": "Fifa_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.77"
+        },
+        {
+            "video": "Fifa_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.92"
+        },
+        {
+            "video": "Minecraft_30_1280x720_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.41"
+        },
+        {
+            "video": "Minecraft_30_1280x720_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.91"
+        },
+        {
+            "video": "Minecraft_30_1280x720_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.98"
+        },
+        {
+            "video": "Minecraft_30_1280x720_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.39"
+        },
+        {
+            "video": "Minecraft_30_30_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.07"
+        },
+        {
+            "video": "Minecraft_30_30_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.18"
+        },
+        {
+            "video": "Minecraft_30_30_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.55"
+        },
+        {
+            "video": "Minecraft_30_30_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.06"
+        },
+        {
+            "video": "Minecraft_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.22"
+        },
+        {
+            "video": "Minecraft_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.19"
+        },
+        {
+            "video": "Minecraft_30_1280x720_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.77"
+        },
+        {
+            "video": "Minecraft_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.92"
+        },
+        {
+            "video": "Minecraft_30_1920x1080_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.03"
+        },
+        {
+            "video": "Minecraft_30_1920x1080_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.43"
+        },
+        {
+            "video": "Minecraft_30_1920x1080_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.29"
+        },
+        {
+            "video": "Minecraft_30_1920x1080_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.72"
+        },
+        {
+            "video": "Minecraft_30_30_1920x1080_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.32"
+        },
+        {
+            "video": "Minecraft_30_30_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.04"
+        },
+        {
+            "video": "Minecraft_30_30_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.57"
+        },
+        {
+            "video": "Minecraft_30_30_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.0"
+        },
+        {
+            "video": "Minecraft_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.57"
+        },
+        {
+            "video": "Minecraft_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.53"
+        },
+        {
+            "video": "Minecraft_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.95"
+        },
+        {
+            "video": "Minecraft_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.56"
+        },
+        {
+            "video": "Tekken_30_1280x720_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.41"
+        },
+        {
+            "video": "Tekken_30_1280x720_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.05"
+        },
+        {
+            "video": "Tekken_30_1280x720_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.77"
+        },
+        {
+            "video": "Tekken_30_1280x720_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.17"
+        },
+        {
+            "video": "Tekken_30_30_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.09"
+        },
+        {
+            "video": "Tekken_30_30_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.87"
+        },
+        {
+            "video": "Tekken_30_30_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.28"
+        },
+        {
+            "video": "Tekken_30_30_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.21"
+        },
+        {
+            "video": "Tekken_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.51"
+        },
+        {
+            "video": "Tekken_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.45"
+        },
+        {
+            "video": "Tekken_30_1280x720_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.63"
+        },
+        {
+            "video": "Tekken_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.85"
+        },
+        {
+            "video": "Tekken_30_1920x1080_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.59"
+        },
+        {
+            "video": "Tekken_30_1920x1080_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.67"
+        },
+        {
+            "video": "Tekken_30_1920x1080_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.37"
+        },
+        {
+            "video": "Tekken_30_1920x1080_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.91"
+        },
+        {
+            "video": "Tekken_30_30_1920x1080_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.08"
+        },
+        {
+            "video": "Tekken_30_30_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.27"
+        },
+        {
+            "video": "Tekken_30_30_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.21"
+        },
+        {
+            "video": "Tekken_30_30_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.83"
+        },
+        {
+            "video": "Tekken_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.24"
+        },
+        {
+            "video": "Tekken_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.17"
+        },
+        {
+            "video": "Tekken_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.46"
+        },
+        {
+            "video": "Tekken_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.71"
+        },
+        {
+            "video": "Dauntless_30_1280x720_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.93"
+        },
+        {
+            "video": "Dauntless_30_1280x720_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.43"
+        },
+        {
+            "video": "Dauntless_30_1280x720_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.63"
+        },
+        {
+            "video": "Dauntless_30_1280x720_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.07"
+        },
+        {
+            "video": "Dauntless_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.84"
+        },
+        {
+            "video": "Dauntless_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.19"
+        },
+        {
+            "video": "Dauntless_30_1280x720_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.39"
+        },
+        {
+            "video": "Dauntless_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.86"
+        },
+        {
+            "video": "Dauntless_30_1920x1080_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.82"
+        },
+        {
+            "video": "Dauntless_30_1920x1080_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.16"
+        },
+        {
+            "video": "Dauntless_30_1920x1080_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.65"
+        },
+        {
+            "video": "Dauntless_30_1920x1080_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.45"
+        },
+        {
+            "video": "Dauntless_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.02"
+        },
+        {
+            "video": "Dauntless_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.02"
+        },
+        {
+            "video": "Dauntless_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.27"
+        },
+        {
+            "video": "Dauntless_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.63"
+        },
+        {
+            "video": "GTA5_30_1280x720_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "1.86"
+        },
+        {
+            "video": "GTA5_30_1280x720_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.17"
+        },
+        {
+            "video": "GTA5_30_1280x720_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.81"
+        },
+        {
+            "video": "GTA5_30_1280x720_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.2"
+        },
+        {
+            "video": "GTA5_30_30_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.11"
+        },
+        {
+            "video": "GTA5_30_30_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.95"
+        },
+        {
+            "video": "GTA5_30_30_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.32"
+        },
+        {
+            "video": "GTA5_30_30_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.12"
+        },
+        {
+            "video": "GTA5_30_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.79"
+        },
+        {
+            "video": "GTA5_30_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.72"
+        },
+        {
+            "video": "GTA5_30_1280x720_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.54"
+        },
+        {
+            "video": "GTA5_30_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.68"
+        },
+        {
+            "video": "GTA5_30_1920x1080_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.23"
+        },
+        {
+            "video": "GTA5_30_1920x1080_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.81"
+        },
+        {
+            "video": "GTA5_30_1920x1080_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.35"
+        },
+        {
+            "video": "GTA5_30_1920x1080_20_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.33"
+        },
+        {
+            "video": "GTA5_30_30_1920x1080_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.93"
+        },
+        {
+            "video": "GTA5_30_30_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.5"
+        },
+        {
+            "video": "GTA5_30_30_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.55"
+        },
+        {
+            "video": "GTA5_30_30_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.0"
+        },
+        {
+            "video": "GTA5_30_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.43"
+        },
+        {
+            "video": "GTA5_30_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.87"
+        },
+        {
+            "video": "GTA5_30_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.55"
+        },
+        {
+            "video": "GTA5_30_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.57"
+        },
+        {
+            "video": "Bejeweled3_30s_30_640x480_30_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.07"
+        },
+        {
+            "video": "Bejeweled3_30s_30_640x480_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.78"
+        },
+        {
+            "video": "Bejeweled3_30s_30_640x480_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.8"
+        },
+        {
+            "video": "Bejeweled3_30s_640x480_60_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.72"
+        },
+        {
+            "video": "Bejeweled3_30s_640x480_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.53"
+        },
+        {
+            "video": "Bejeweled3_30s_640x480_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.42"
+        },
+        {
+            "video": "Bejeweled3_30s_30_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.68"
+        },
+        {
+            "video": "Bejeweled3_30s_30_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.04"
+        },
+        {
+            "video": "Bejeweled3_30s_30_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.93"
+        },
+        {
+            "video": "Bejeweled3_30s_30_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.44"
+        },
+        {
+            "video": "Bejeweled3_30s_1280x720_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.29"
+        },
+        {
+            "video": "Bejeweled3_30s_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.67"
+        },
+        {
+            "video": "Bejeweled3_30s_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.03"
+        },
+        {
+            "video": "Bejeweled3_30s_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.12"
+        },
+        {
+            "video": "Bejeweled3_30s_20_1920x1080_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.94"
+        },
+        {
+            "video": "Bejeweled3_30s_20_1920x1080_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.41"
+        },
+        {
+            "video": "Bejeweled3_30s_20_1920x1080_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.32"
+        },
+        {
+            "video": "Bejeweled3_30s_20_1920x1080_20_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.07"
+        },
+        {
+            "video": "Bejeweled3_30s_30_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.18"
+        },
+        {
+            "video": "Bejeweled3_30s_30_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.54"
+        },
+        {
+            "video": "Bejeweled3_30s_30_1920x1080_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.65"
+        },
+        {
+            "video": "Bejeweled3_30s_30_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.57"
+        },
+        {
+            "video": "Bejeweled3_30s_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.98"
+        },
+        {
+            "video": "Bejeweled3_30s_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.51"
+        },
+        {
+            "video": "Bejeweled3_30s_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.72"
+        },
+        {
+            "video": "Bejeweled3_30s_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.57"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_640x480_30_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.57"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_640x480_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.54"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_640x480_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.6"
+        },
+        {
+            "video": "LoL_TF_30s_640x480_60_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.4"
+        },
+        {
+            "video": "LoL_TF_30s_640x480_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.6"
+        },
+        {
+            "video": "LoL_TF_30s_640x480_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.59"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.31"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.23"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.52"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.1"
+        },
+        {
+            "video": "LoL_TF_30s_1280x720_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.98"
+        },
+        {
+            "video": "LoL_TF_30s_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.34"
+        },
+        {
+            "video": "LoL_TF_30s_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.79"
+        },
+        {
+            "video": "LoL_TF_30s_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.26"
+        },
+        {
+            "video": "LoL_TF_30s_1_20_1920x1080_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.52"
+        },
+        {
+            "video": "LoL_TF_30s_1_20_1920x1080_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.0"
+        },
+        {
+            "video": "LoL_TF_30s_1_20_1920x1080_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.42"
+        },
+        {
+            "video": "LoL_TF_30s_1_20_1920x1080_20_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.29"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.7"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.08"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_1920x1080_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.9"
+        },
+        {
+            "video": "LoL_TF_30s_1_30_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.57"
+        },
+        {
+            "video": "LoL_TF_30s_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.7"
+        },
+        {
+            "video": "LoL_TF_30s_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.44"
+        },
+        {
+            "video": "LoL_TF_30s_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.5"
+        },
+        {
+            "video": "LoL_TF_30s_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "6.0"
+        },
+        {
+            "video": "Worms_30s_30_640x480_30_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.47"
+        },
+        {
+            "video": "Worms_30s_30_640x480_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.06"
+        },
+        {
+            "video": "Worms_30s_30_640x480_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.29"
+        },
+        {
+            "video": "Worms_30s_640x480_60_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.23"
+        },
+        {
+            "video": "Worms_30s_640x480_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.98"
+        },
+        {
+            "video": "Worms_30s_640x480_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.42"
+        },
+        {
+            "video": "Worms_30s_30_1280x720_30_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.33"
+        },
+        {
+            "video": "Worms_30s_30_1280x720_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.01"
+        },
+        {
+            "video": "Worms_30s_30_1280x720_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.66"
+        },
+        {
+            "video": "Worms_30s_30_1280x720_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.65"
+        },
+        {
+            "video": "Worms_30s_1280x720_60_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.93"
+        },
+        {
+            "video": "Worms_30s_1280x720_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.03"
+        },
+        {
+            "video": "Worms_30s_1280x720_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.45"
+        },
+        {
+            "video": "Worms_30s_1280x720_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.94"
+        },
+        {
+            "video": "Worms_30s_20_1920x1080_20_300_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "2.17"
+        },
+        {
+            "video": "Worms_30s_20_1920x1080_20_1000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.51"
+        },
+        {
+            "video": "Worms_30s_20_1920x1080_20_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.99"
+        },
+        {
+            "video": "Worms_30s_20_1920x1080_20_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.01"
+        },
+        {
+            "video": "Worms_30s_30_1920x1080_30_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.99"
+        },
+        {
+            "video": "Worms_30s_30_1920x1080_30_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.81"
+        },
+        {
+            "video": "Worms_30s_30_1920x1080_30_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.91"
+        },
+        {
+            "video": "Worms_30s_30_1920x1080_30_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.45"
+        },
+        {
+            "video": "Worms_30s_1920x1080_60_2000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "3.71"
+        },
+        {
+            "video": "Worms_30s_1920x1080_60_4000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.34"
+        },
+        {
+            "video": "Worms_30s_1920x1080_60_6000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "4.83"
+        },
+        {
+            "video": "Worms_30s_1920x1080_60_50000_h264_nvenc.mp4",
+            "ann_type": "mos",
+            "mos": "5.62"
+        }
+  ]

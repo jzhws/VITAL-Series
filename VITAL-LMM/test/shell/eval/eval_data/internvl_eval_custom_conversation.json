@@ -1,0 +1,9 @@
+{
+  "custom_test": {
+    "root": "/mnt/shared-storage-user/jiaziheng/pretrain/internvl-sft/internvl_chat/data/TENCENT/",
+    "annotation": "/mnt/shared-storage-user/jiaziheng/pretrain/internvl-sft/internvl_chat/shell/eval/custom/benchlist.json",
+    "data_augment": false,
+    "repeat_time": 1,
+    "length": 1200
+  }
+}
