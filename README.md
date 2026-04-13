@@ -1,5 +1,7 @@
 # [CVPR 2026] VITAL-Series
 
+> Notice (2026.2.21): This work has been accepted to CVPR 2026.
+
 Official implementation of **VITAL: Vision-Encoder-centered pretraining for LMMs in visual quality assessment**.
 
 <p align="center">
