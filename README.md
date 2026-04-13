@@ -58,18 +58,24 @@ cd VITAL-LMM
 
 ### 🧪 Testing
 
+cd VITAL-LMM/test
+
 1. Edit JSON configs in `shell/eval/eval_data`:
    - Update `root` and `annotation` to your image/video paths and annotation files.
-   - Example files are provided in `shell/eval/custom`.
 
-2. Run batch evaluation scripts:
+2. Run  evaluation scripts:
 
 ```bash
-bash shell/eval/evaluate_custom_scoring.sh
-bash shell/eval/evaluate_custom_description.sh
+For quality scoring:
+bash shell/eval/evaluate_image.sh
+bash shell/eval/evaluate_video.sh
+
+For text generation:
+bash shell/eval/evaluate_qbench.sh
+bash shell/eval/evaluate_qbench_video_single_dev.sh
 ```
 
-> Legacy wrappers `evaluate_custom_打分.sh` and `evaluate_custom_描述.sh` are kept for compatibility.
+
 
 3. Evaluation entry scripts are in `internvl/eval`:
    - Default scoring: `scoring.py`
@@ -79,11 +85,13 @@ If you want to use `scoring_less_token.py`, modify line 31 in `shell/eval/evalua
 
 ### 🏋️ Training
 
+cd VITAL-LMM/train
+
 Use scripts in `training_shell` (update data/model paths before running):
 
 ```bash
-bash training_shell/pretrain.sh
-bash training_shell/warm_up.sh
+bash shell/pretrain.sh
+bash shell/warm_up.sh
 ```
 
 ---
@@ -129,28 +137,6 @@ Please update file paths in scripts for your local setup.
 
 ---
 
-## 📈 GitHub Daily Star/Issue Report
-
-Generate a daily report for `jzhws1/VITAL-Series`:
-
-```bash
-python3 scripts/github_daily_report.py --repo jzhws1/VITAL-Series
-```
-
-Outputs:
-
-- `reports/github_daily_report.md`: current stars, open issue count, and 24h issue updates.
-- `reports/.github_daily_state.json`: previous snapshot used for delta calculation.
-
-For scheduled runs:
-
-```bash
-cat scripts/github_daily_cron.example
-```
-
-Optional: set `GITHUB_TOKEN` to increase GitHub API rate limits.
-
----
 
 ## 📚 Citation
 
