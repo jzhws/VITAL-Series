@@ -114,7 +114,7 @@ Please update file paths in scripts for your local setup.
 
 ### VITAL Main Models
 
-- **VITAL-Base-8B**: <https://huggingface.co/JZHWS/VITAL-Base-8B/tree/main>
+- **VITAL-Base-8B**: <https://huggingface.co/JZHWS/VITAL-Base-8B>
 - **VITAL-Assistant-8B**: <https://huggingface.co/JZHWS/VITAL-Assistant-8B>
 - **VITAL-Warm-up-1B**: <https://huggingface.co/JZHWS/VITAL-Warm-up-1B>
 - **VITAL-Warm-up-2B**: <https://huggingface.co/JZHWS/VITAL-Warm-up-2B>
