@@ -1,4 +1,4 @@
-# VITAL-Series
+# [CVPR 2026] VITAL-Series
 
 Official implementation of **VITAL: Vision-Encoder-centered pretraining for LMMs in visual quality assessment**.
 
