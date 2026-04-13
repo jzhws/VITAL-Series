@@ -1,8 +1,73 @@
-{ 
-  "example": {
-    "root": "your video root",
-    "annotation": "data/pretrain/example.json",
-    "data_augment": false,
-    "repeat_time": 1
-  }
-  }
+[
+  [
+    {
+      "video": "batch_1/eN9Foew5DUc-00007.mp4",
+      "mos": [63.90106298287, 69.55914873014075, 68.11500144296224, 60.25841220303846, 66.5831901861352, 72.04354966171178],
+      "id": "batch_1/eN9Foew5DUc-00007.mp4->66.74339420114306",
+      "gt_score": 66.74339420114306,
+      "gt_score_norm": 3.5794934669057366,
+      "level_probs_org": [0.148948614024215, 0.7749307514650953, 0.07585243073926176, 4.6837709679750735e-05, 8.876260475691465e-11],
+      "target_dist": [0.14867373891545374, 0.7785726073023485, 0.07512019739935649, 0, 0],
+      "std": 3.8310340531009204,
+      "std_norm": 0.40433325454895114,
+      "alpha": 1.0062569372379004,
+      "beta": -0.0012068372383830183,
+      "raw_diff": 0.007265740211880534,
+      "diff": 0.0023429772704162133,
+      "conversations": [{"from": "human", "value": ""}, {"from": "gpt", "value": "The quality of the video is good"}]
+    }
+  ],
+  [
+    {
+      "video": "/mnt/shared-storage-user/jiaziheng/pretrain/dist_video/264/0MV5KiwkxgM-00000_crf_24.mp4",
+      "conversations": [
+        {
+          "from": "human",
+          "value": ""
+        },
+        {
+          "from": "gpt",
+          "value": "mild H264 compression"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "image": "/mnt/shared-storage-user/jiaziheng/pretrain/images/dist_imgs_baidu/\u821e\u8e48/\u7537\u56e2\u821e_00230_11_03.jpg",
+      "conversations": [
+        {
+          "from": "human",
+          "value": ""
+        },
+        {
+          "from": "gpt",
+          "value": "relatively severe white noise"
+        }
+      ]
+    }
+  ],
+  [
+    {
+      "video": "batch_7/68jtUNBnVOo-00007.mp4",
+      "quality": "Sharpness is low, resulting in a blurry image",
+      "conversations": [{"from": "human", "value": ""}, {"from": "gpt", "value": "Sharpness is low, resulting in a blurry image"}]
+    }
+  ],
+  [
+    {
+      "image": "\u6444\u5f71/\u5915\u9633\u6444\u5f71_00430.jpeg",
+      "quality": "The lighting is sufficient",
+      "conversations": [
+        {
+          "from": "human",
+          "value": ""
+        },
+        {
+          "from": "gpt",
+          "value": "The lighting is sufficient"
+        }
+      ]
+    }
+  ]
+]
